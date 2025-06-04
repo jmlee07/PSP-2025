@@ -1,7 +1,7 @@
 ---
 title: "R Data Types & Language Basics"
 author: "Nancy Carmona"
-date: "2024-03-21"
+date: "2025-06-04"
 output: pdf_document
 ---
 
@@ -162,6 +162,8 @@ print() is a function which is used to print the values on to the output screen.
 Double check that you do not have stored objects in your current session with the following command. This will list all objects that you have in your current R session.
 
 ```{r}
+
+# clear environment 
 ls()
 ```
 
@@ -169,6 +171,13 @@ ls()
 1) Create three vectors a, b, c with three integers each. 
 
 ```{r}
+
+# when creating vectors of numerical values (integers) you should NOT use the quotation marks around each element 
+a <- c(50, 60, 50)
+b <- c(1, 2, 2)
+c <- c(4, 5, 5)
+
+
 
 
 ```
@@ -178,6 +187,15 @@ ls()
 
 ```{r}
 
+class(a) # class is the larger umbrella 
+typeof(a) # specific type within the class numeric 
+
+class(b)
+typeof(b)
+
+class(c)
+typeof(c)
+
 ```
 
 
@@ -186,27 +204,32 @@ ls()
 
 ```{r}
 
-mean(height)
+# calculate mean 
+mean(a)
+mean(b)
+mean(c)
 
-median(height)
 
-```
+# calculate median
+median(a)
+median(b)
+median(c)
 
+# calculate mode 
 
-```{r}
-
+# code for installing a package only needs to be done the first time a package is installed 
 # install.packages("DescTools")
+# this package will allow you to calculate the Mode of a vector 
 
+# load the library 
+# loading a library has to be done every time a package will be used in the code 
 library(DescTools)
 
-DescTools::Mode(height)
+# mode will not work if there is no value that occurs more than once 
+Mode(a)
+Mode(b)
+Mode(c)
 
-height2 <- c(1.6, 1.8, 2.0, 2.0, 2.0, 2.5)
-
-Mode(height2)
-
-
-summary(health_df)
 
 ```
 
@@ -217,6 +240,9 @@ summary(health_df)
 
 ```{r}
 
+# can create a data frame with all 3 vectors 
+exercise_df <- data.frame(a, b, c)
+
 ```
 
 
@@ -224,6 +250,8 @@ summary(health_df)
 
 
 ```{r}
+
+print(exercise_df)
 
 ```
 
