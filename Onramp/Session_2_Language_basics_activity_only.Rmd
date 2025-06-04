@@ -94,7 +94,7 @@ Let's calculate BMI using the height and weight data we created above. We will a
 # BMI equation for reference: BMI = Weight / (Height ^ 2)
 # ^ is used for exponents 
 
-health_df$BMI <- (health_df$weight) / (height^2)
+health_df$BMI <- (health_df$weight) / (health_df$height^2)
  
 # We can also View the data frame in another tab of the Source pane 
 View(health_df)
@@ -186,8 +186,30 @@ ls()
 
 ```{r}
 
+mean(height)
+
+median(height)
 
 ```
+
+
+```{r}
+
+# install.packages("DescTools")
+
+library(DescTools)
+
+DescTools::Mode(height)
+
+height2 <- c(1.6, 1.8, 2.0, 2.0, 2.0, 2.5)
+
+Mode(height2)
+
+
+summary(health_df)
+
+```
+
 
 
 4) Combine the three vectors into a data frame. 
