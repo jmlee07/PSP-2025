@@ -618,36 +618,50 @@ ls()
 1)  Create three vectors a, b, c with three integers each.
 
 ```{r}
-
+a <- c(50,60,50)
+b <- c(1, 2, 2)
+c <- c(4, 5, 5)
 
 ```
 
 2)  Check the data class and type for each vector.
 
 ```{r}
+class(a)
+typeof(a)
 
+class(b)
+typeof(b)
+
+class(c)
+typeof(c)
 ```
 
 3)  Calculate the mean, median, and mode of each vector.
 
 ```{r}
 
-mean()
+mean(a)
+mean(b)
+mean(c)
 
-median()
+median(a)
+median(b)
+median(c)
 
-mode()
-
+Mode(a)
+Mode(b)
+Mode(c)
 ```
 
 4)  Combine the three vectors into a data frame.
 
 ```{r}
-
+exercise_df <- data.frame(a, b, c)
 ```
 
 5)  Print the content of the data frame.
 
 ```{r}
-
+print(exercise_df)
 ```
