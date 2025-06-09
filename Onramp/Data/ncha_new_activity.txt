@@ -1,0 +1,2359 @@
+"OVRL_HEALTH" "SELFDESC_WEIGHT" "MIN_MOD_PA"
+"1" "Excellent" "About the right weight" 8
+"2" "Good" "Very underweight" 90
+"3" "Good" "About the right weight" 400
+"4" "Good" "Slightly overweight" 360
+"5" "Good" "About the right weight" 20
+"6" "Very Good" "About the right weight" 25
+"7" "Very Good" "About the right weight" 90
+"8" "Fair" "About the right weight" 180
+"9" "Good" "Slightly overweight" 120
+"10" "Good" "About the right weight" 120
+"11" "Good" "Very overweight" 90
+"12" "Good" "Slightly overweight" 240
+"13" "Fair" "Very overweight" 90
+"14" "Fair" "Slightly overweight" 15
+"15" "Excellent" "About the right weight" 308
+"16" "Fair" "Slightly overweight" 120
+"17" "Fair" "Slightly overweight" 200
+"18" "Very Good" "About the right weight" 270
+"19" "Excellent" "About the right weight" 120
+"20" "Poor" "Very overweight" 45
+"21" "Good" "Slightly overweight" 60
+"22" "Good" "About the right weight" 540
+"23" "Good" "Very overweight" 25
+"24" "Very Good" "Slightly overweight" 80
+"25" "Excellent" "About the right weight" 200
+"26" "Very Good" "Slightly overweight" 180
+"27" "Very Good" "Slightly overweight" 1080
+"28" "Good" "Slightly overweight" 60
+"29" "Very Good" "About the right weight" 1680
+"30" "Good" "Slightly overweight" 2000
+"31" "Very Good" "Slightly overweight" 840
+"32" "Good" "About the right weight" 420
+"33" "Very Good" "About the right weight" 120
+"34" "Very Good" "Slightly overweight" 120
+"35" "Good" "About the right weight" 250
+"36" "Poor" "Very overweight" 0
+"37" "Very Good" "Very overweight" 240
+"38" "Very Good" "About the right weight" 240
+"39" "Very Good" "Slightly underweight" 90
+"40" "Excellent" "Very underweight" 100
+"41" "Very Good" "About the right weight" 600
+"42" "Good" "Slightly overweight" 120
+"43" "Very Good" "About the right weight" 480
+"44" "Good" "Slightly overweight" 5000
+"45" "Poor" "Very overweight" 420
+"46" "Good" "About the right weight" 180
+"47" "Fair" "Slightly underweight" 210
+"48" "Excellent" "About the right weight" 50
+"49" "Good" "About the right weight" 2820
+"50" "Good" "Slightly overweight" 70
+"51" "Very Good" "About the right weight" 300
+"52" "Very Good" "Slightly overweight" 60
+"53" "Good" "Slightly overweight" 30
+"54" "Good" "About the right weight" 420
+"55" "Fair" "Slightly overweight" 120
+"56" "Good" "About the right weight" 480
+"57" "Fair" "Very underweight" 210
+"58" "Very Good" "Slightly overweight" 500
+"59" "Good" "Very overweight" 30
+"60" "Poor" "About the right weight" 0
+"61" "Excellent" "Slightly overweight" 120
+"62" "Good" "About the right weight" 900
+"63" "Good" "Slightly overweight" 120
+"64" "Very Good" "Slightly overweight" 180
+"65" "Good" "About the right weight" 90
+"66" "Good" "Slightly overweight" 60
+"67" "Excellent" "Very overweight" 300
+"68" "Good" "Slightly underweight" 180
+"69" "Good" "About the right weight" 60
+"70" "Very Good" "Slightly overweight" 240
+"71" "Good" "Slightly overweight" 300
+"72" "Very Good" "Slightly overweight" 120
+"73" "Excellent" "About the right weight" 1680
+"74" "Very Good" "About the right weight" 60
+"75" "Excellent" "About the right weight" 30
+"76" "Good" "About the right weight" 120
+"77" "Good" "Very overweight" 10
+"78" "Fair" "Slightly overweight" 30
+"79" "Good" "Slightly overweight" 45
+"80" "Good" "Slightly overweight" 240
+"81" "Good" "About the right weight" 180
+"82" "Good" "About the right weight" 160
+"83" "Very Good" "About the right weight" 250
+"84" "Very Good" "About the right weight" 30
+"85" "Very Good" "Slightly overweight" 45
+"86" "Very Good" "About the right weight" 120
+"87" "Very Good" "About the right weight" 0
+"88" "Good" "Very overweight" 0
+"89" "Good" "Slightly overweight" 120
+"90" "Good" "About the right weight" 70
+"91" "Fair" "Slightly overweight" 240
+"92" "Very Good" "About the right weight" 40
+"93" "Good" "Slightly overweight" 60
+"94" "Good" "Slightly underweight" 120
+"95" "Very Good" "Slightly overweight" 200
+"96" "Fair" "About the right weight" 120
+"97" "Very Good" "Slightly overweight" 60
+"98" "Good" "Slightly underweight" 90
+"99" "Fair" "Slightly underweight" 1200
+"100" "Good" "About the right weight" 800
+"101" "Fair" "About the right weight" 300
+"102" "Very Good" "Slightly overweight" 300
+"103" "Good" "About the right weight" 350
+"104" "Good" "Slightly overweight" 300
+"105" "Very Good" "About the right weight" 270
+"106" "Very Good" "About the right weight" 300
+"107" "Fair" "Slightly overweight" 60
+"108" "Excellent" "About the right weight" 300
+"109" "Good" "About the right weight" 120
+"110" "Good" "Slightly overweight" 420
+"111" "Good" "Slightly overweight" 90
+"112" "Fair" "Slightly overweight" 0
+"113" "Very Good" "Slightly overweight" 160
+"114" "Very Good" "Slightly overweight" 60
+"115" "Good" "Slightly overweight" 720
+"116" "Very Good" "Slightly overweight" 340
+"117" "Very Good" "About the right weight" 400
+"118" "Good" "Slightly underweight" 500
+"119" "Very Good" "About the right weight" 60
+"120" "Very Good" "Very underweight" 0
+"121" "Very Good" "About the right weight" 30
+"122" "Excellent" "About the right weight" 50
+"123" "Fair" "About the right weight" 120
+"124" "Fair" "Slightly overweight" 300
+"125" "Fair" "Very overweight" 60
+"126" "Excellent" "About the right weight" 360
+"127" "Excellent" "About the right weight" 360
+"128" "Very Good" "About the right weight" 120
+"129" "Very Good" "About the right weight" 45
+"130" "Good" "Slightly overweight" 1000
+"131" "Fair" "About the right weight" 420
+"132" "Good" "About the right weight" 60
+"133" "Good" "About the right weight" 120
+"134" "Fair" "Slightly overweight" 120
+"135" "Good" "Slightly overweight" 90
+"136" "Poor" "About the right weight" 50
+"137" "Fair" "Slightly overweight" 30
+"138" "Very Good" "About the right weight" 90
+"139" "Fair" NA 0
+"140" "Good" "Slightly overweight" 60
+"141" "Very Good" "Slightly overweight" 60
+"142" "Good" "Slightly overweight" 300
+"143" "Very Good" "Slightly overweight" 360
+"144" "Fair" "Slightly overweight" 300
+"145" "Excellent" "Slightly underweight" 160
+"146" "Very Good" "Slightly overweight" 600
+"147" "Good" "About the right weight" 630
+"148" "Very Good" "Slightly overweight" 180
+"149" "Very Good" "Slightly overweight" 450
+"150" "Good" "Slightly overweight" 60
+"151" "Good" "About the right weight" 30
+"152" "Very Good" "About the right weight" 60
+"153" "Good" "Slightly overweight" 420
+"154" "Good" "Slightly overweight" 75
+"155" "Good" "About the right weight" 350
+"156" "Fair" "Slightly overweight" 120
+"157" "Excellent" "About the right weight" 300
+"158" "Good" "Slightly overweight" 480
+"159" "Very Good" "Slightly overweight" 60
+"160" "Good" "Slightly overweight" 100
+"161" "Poor" "Slightly underweight" 120
+"162" "Good" "Very overweight" 0
+"163" "Good" "About the right weight" 190
+"164" "Very Good" "About the right weight" 450
+"165" "Fair" "About the right weight" 30
+"166" "Good" "Slightly overweight" 300
+"167" "Very Good" "About the right weight" 50
+"168" "Good" "About the right weight" 330
+"169" "Good" "Slightly overweight" 60
+"170" "Very Good" "About the right weight" 120
+"171" "Very Good" "About the right weight" 300
+"172" "Excellent" "About the right weight" 480
+"173" "Good" "Slightly overweight" 25
+"174" "Good" "About the right weight" 260
+"175" "Poor" "Slightly overweight" 180
+"176" "Good" "Slightly overweight" 298
+"177" "Good" "About the right weight" 660
+"178" "Very Good" "About the right weight" 500
+"179" "Fair" "Slightly overweight" 150
+"180" "Good" "Slightly overweight" 130
+"181" "Poor" "About the right weight" 140
+"182" "Very Good" "About the right weight" 120
+"183" "Very Good" "About the right weight" 100
+"184" "Good" "About the right weight" 350
+"185" "Very Good" "About the right weight" 120
+"186" "Good" "Slightly overweight" 300
+"187" "Good" "Slightly underweight" 60
+"188" NA "Slightly overweight" 40
+"189" "Fair" "Slightly underweight" 10
+"190" "Very Good" "Slightly overweight" 45
+"191" "Good" "About the right weight" 95
+"192" "Very Good" "About the right weight" 60
+"193" "Very Good" "About the right weight" 200
+"194" "Very Good" "Slightly overweight" 180
+"195" "Fair" "Very overweight" 15
+"196" "Good" "About the right weight" 300
+"197" "Very Good" "About the right weight" 600
+"198" "Very Good" "Slightly overweight" 300
+"199" "Very Good" "About the right weight" 60
+"200" "Very Good" "About the right weight" 120
+"201" "Good" "Slightly underweight" 120
+"202" "Good" "Slightly overweight" 0
+"203" "Good" "About the right weight" 100
+"204" "Very Good" "About the right weight" 120
+"205" "Excellent" "About the right weight" 150
+"206" "Fair" "Slightly overweight" 30
+"207" "Very Good" "About the right weight" 180
+"208" "Fair" "Slightly overweight" 20
+"209" "Fair" "Slightly overweight" 90
+"210" "Very Good" "About the right weight" 300
+"211" "Fair" "About the right weight" 90
+"212" "Fair" "About the right weight" 140
+"213" "Excellent" "Very underweight" 60
+"214" "Very Good" "About the right weight" 240
+"215" "Good" "About the right weight" 240
+"216" "Very Good" "About the right weight" 300
+"217" "Good" "Slightly overweight" 600
+"218" "Good" "Slightly overweight" 360
+"219" "Good" "Slightly overweight" 120
+"220" "Very Good" "About the right weight" 400
+"221" "Good" "Slightly overweight" 210
+"222" "Very Good" "About the right weight" 150
+"223" "Very Good" "Slightly underweight" 200
+"224" "Good" "About the right weight" 240
+"225" "Very Good" "Slightly overweight" 180
+"226" "Very Good" "Slightly underweight" 45
+"227" "Good" "Slightly overweight" 120
+"228" "Good" "About the right weight" 45
+"229" "Fair" "Very overweight" 360
+"230" "Very Good" "Very overweight" 120
+"231" "Good" "Slightly overweight" 120
+"232" "Good" "Slightly overweight" 60
+"233" "Very Good" "About the right weight" 120
+"234" "Poor" "Slightly overweight" 0
+"235" "Very Good" "About the right weight" 180
+"236" "Good" "Slightly overweight" 0
+"237" "Good" "About the right weight" 30
+"238" "Very Good" "About the right weight" 180
+"239" "Excellent" "Very overweight" 80
+"240" "Good" NA 30
+"241" "Fair" "Slightly overweight" 1
+"242" "Very Good" "About the right weight" 60
+"243" "Very Good" "About the right weight" 60
+"244" "Good" "Slightly overweight" 130
+"245" "Good" "Slightly underweight" 60
+"246" "Fair" "Very underweight" 300
+"247" "Very Good" "Slightly overweight" 10
+"248" "Poor" "About the right weight" 30
+"249" "Very Good" "About the right weight" 120
+"250" "Very Good" "About the right weight" 150
+"251" "Good" "Slightly overweight" 120
+"252" "Good" "Slightly overweight" 120
+"253" "Fair" "About the right weight" 150
+"254" "Good" "About the right weight" 60
+"255" "Good" "About the right weight" 900
+"256" "Excellent" "About the right weight" 140
+"257" "Good" "About the right weight" 60
+"258" "Poor" "About the right weight" 0
+"259" NA "Slightly overweight" 100
+"260" "Good" "Very overweight" 5035
+"261" "Good" "Slightly overweight" 60
+"262" "Good" "Slightly overweight" 30
+"263" "Fair" "Slightly overweight" 50
+"264" "Very Good" "About the right weight" NA
+"265" "Fair" "Slightly underweight" 60
+"266" "Fair" "Slightly overweight" 240
+"267" "Very Good" "About the right weight" 30
+"268" "Good" "Very overweight" 120
+"269" "Very Good" "Slightly underweight" 90
+"270" "Good" "Slightly overweight" 300
+"271" "Fair" "Very underweight" 30
+"272" "Very Good" "About the right weight" 150
+"273" "Good" "About the right weight" 510
+"274" "Good" "About the right weight" 0
+"275" "Excellent" "Slightly overweight" 100
+"276" "Good" "Slightly overweight" 0
+"277" "Good" "Slightly overweight" 120
+"278" "Excellent" "About the right weight" 30
+"279" "Fair" "About the right weight" 200
+"280" "Very Good" "Slightly underweight" 120
+"281" "Very Good" "Slightly overweight" 300
+"282" "Very Good" "About the right weight" 0
+"283" "Fair" "Very overweight" 150
+"284" "Good" "About the right weight" 90
+"285" "Very Good" "Slightly overweight" 120
+"286" "Good" "About the right weight" 120
+"287" "Good" "About the right weight" 30
+"288" "Good" "Slightly overweight" 120
+"289" "Very Good" "About the right weight" 100
+"290" "Excellent" "About the right weight" 60
+"291" "Fair" "Slightly underweight" 180
+"292" "Very Good" "About the right weight" 300
+"293" "Good" "About the right weight" 130
+"294" "Good" "Slightly overweight" 400
+"295" "Poor" "Slightly overweight" 180
+"296" "Good" "Slightly overweight" 120
+"297" "Fair" "About the right weight" 120
+"298" "Excellent" "Slightly underweight" 840
+"299" "Very Good" "About the right weight" 840
+"300" "Excellent" "About the right weight" 80
+"301" "Very Good" "Very overweight" 120
+"302" "Very Good" "About the right weight" 220
+"303" "Excellent" "About the right weight" 420
+"304" "Good" "Slightly overweight" 60
+"305" "Fair" "About the right weight" 60
+"306" "Very Good" "About the right weight" 600
+"307" "Good" "Slightly overweight" 120
+"308" "Good" "About the right weight" 500
+"309" "Very Good" "About the right weight" 30
+"310" "Excellent" "Slightly underweight" 45
+"311" "Good" "Slightly overweight" 200
+"312" "Good" "Slightly overweight" 60
+"313" "Good" "Very overweight" 20
+"314" "Good" "About the right weight" 30
+"315" "Very Good" "Slightly underweight" 100
+"316" "Good" "About the right weight" 300
+"317" "Good" "Slightly overweight" 180
+"318" "Good" "Slightly overweight" 300
+"319" "Good" "Slightly overweight" 634
+"320" "Fair" "About the right weight" 180
+"321" "Good" "Slightly overweight" 50
+"322" NA "Slightly underweight" 30
+"323" "Very Good" "Slightly overweight" 60
+"324" "Fair" "Slightly overweight" 240
+"325" "Very Good" "About the right weight" 60
+"326" "Fair" "Slightly overweight" 180
+"327" "Very Good" "About the right weight" 210
+"328" "Fair" "About the right weight" 210
+"329" "Very Good" "Very overweight" 120
+"330" "Good" "Slightly overweight" 2100
+"331" "Very Good" "About the right weight" 420
+"332" "Good" "Slightly overweight" 120
+"333" "Very Good" "About the right weight" 120
+"334" "Very Good" "About the right weight" 60
+"335" "Very Good" "About the right weight" 90
+"336" "Good" "About the right weight" 20
+"337" "Good" "Slightly overweight" 120
+"338" "Good" "About the right weight" 100
+"339" "Very Good" "About the right weight" 40
+"340" "Very Good" "Slightly underweight" 240
+"341" "Fair" "Slightly overweight" 90
+"342" "Very Good" "About the right weight" 180
+"343" "Good" "Slightly overweight" 300
+"344" "Excellent" "About the right weight" 200
+"345" "Very Good" "About the right weight" 60
+"346" "Good" "About the right weight" 300
+"347" "Good" "Slightly underweight" 120
+"348" "Very Good" "Slightly overweight" 140
+"349" "Excellent" "Slightly overweight" 120
+"350" "Fair" "About the right weight" 300
+"351" "Very Good" "About the right weight" 185
+"352" "Poor" "Slightly overweight" 0
+"353" "Good" "Very overweight" 40
+"354" "Good" "About the right weight" 300
+"355" "Good" "Slightly underweight" 120
+"356" "Excellent" "Slightly underweight" 60
+"357" "Excellent" "About the right weight" 60
+"358" "Fair" "About the right weight" 180
+"359" "Good" "Slightly underweight" 240
+"360" NA "Slightly overweight" 45
+"361" "Excellent" "About the right weight" 45
+"362" "Excellent" "Slightly overweight" 45
+"363" "Excellent" "About the right weight" 420
+"364" "Very Good" "Slightly underweight" 210
+"365" "Good" "About the right weight" 30
+"366" "Very Good" "About the right weight" 15
+"367" "Very Good" "Slightly overweight" 80
+"368" "Very Good" "Slightly overweight" 120
+"369" "Excellent" "About the right weight" 180
+"370" "Good" "About the right weight" 120
+"371" "Very Good" "About the right weight" 360
+"372" "Very Good" "About the right weight" 180
+"373" "Good" "Slightly overweight" 510
+"374" "Very Good" "Slightly overweight" 60
+"375" "Very Good" "About the right weight" 510
+"376" "Very Good" "About the right weight" 45
+"377" "Excellent" "About the right weight" 60
+"378" "Poor" "About the right weight" 48
+"379" NA "About the right weight" 120
+"380" "Excellent" "About the right weight" 120
+"381" "Excellent" "About the right weight" 60
+"382" "Good" "Very overweight" 240
+"383" "Good" "Slightly overweight" 400
+"384" "Good" "About the right weight" 120
+"385" "Good" "Very overweight" 300
+"386" "Good" "About the right weight" 120
+"387" "Very Good" "Very overweight" 360
+"388" "Good" "Slightly underweight" 120
+"389" "Very Good" "About the right weight" 500
+"390" "Fair" "About the right weight" 60
+"391" "Fair" "Slightly overweight" 60
+"392" "Very Good" "About the right weight" 120
+"393" "Very Good" "About the right weight" 30
+"394" "Good" "Slightly overweight" 300
+"395" "Very Good" "About the right weight" 420
+"396" "Very Good" "About the right weight" 60
+"397" "Good" "About the right weight" 560
+"398" "Good" "Slightly overweight" 60
+"399" "Fair" "About the right weight" 210
+"400" "Good" "About the right weight" 30
+"401" "Very Good" "Slightly underweight" 30
+"402" "Very Good" "About the right weight" 300
+"403" "Very Good" "About the right weight" 1020
+"404" "Good" "Slightly overweight" 300
+"405" "Good" "Slightly underweight" 420
+"406" "Good" "About the right weight" 30
+"407" "Good" "About the right weight" 240
+"408" "Fair" "About the right weight" 140
+"409" "Good" "About the right weight" 120
+"410" "Fair" "About the right weight" 100
+"411" "Fair" "Very underweight" 40
+"412" "Very Good" "About the right weight" 200
+"413" "Very Good" "Slightly overweight" 420
+"414" "Very Good" "Slightly overweight" 120
+"415" "Very Good" "Slightly underweight" 175
+"416" "Very Good" "Slightly underweight" 200
+"417" "Good" "Slightly overweight" 90
+"418" "Very Good" "About the right weight" 90
+"419" "Good" "About the right weight" 30
+"420" "Very Good" "Slightly overweight" 120
+"421" "Good" "About the right weight" 400
+"422" "Very Good" "About the right weight" 60
+"423" "Good" "About the right weight" 1400
+"424" "Fair" "Slightly overweight" 120
+"425" "Excellent" "Slightly underweight" 1600
+"426" NA "Very overweight" 120
+"427" "Good" "Slightly overweight" 210
+"428" "Very Good" "Slightly overweight" 75
+"429" "Very Good" "Slightly overweight" 300
+"430" "Excellent" "About the right weight" 120
+"431" "Good" "Very overweight" 30
+"432" "Good" "Slightly underweight" 500
+"433" "Very Good" "About the right weight" 100
+"434" "Good" "Slightly overweight" 60
+"435" "Very Good" "About the right weight" 60
+"436" "Fair" "Slightly underweight" 1260
+"437" "Fair" "About the right weight" 60
+"438" "Good" "Very overweight" 180
+"439" "Fair" "About the right weight" 60
+"440" "Very Good" "Very overweight" 420
+"441" "Very Good" "About the right weight" 60
+"442" "Very Good" "About the right weight" 90
+"443" "Very Good" "About the right weight" 40
+"444" "Good" "Slightly overweight" 300
+"445" "Fair" "Slightly overweight" 1260
+"446" "Very Good" "Slightly overweight" 70
+"447" "Very Good" "About the right weight" 300
+"448" "Good" "About the right weight" 30
+"449" "Fair" "About the right weight" 20
+"450" "Very Good" "Slightly overweight" 300
+"451" "Fair" "About the right weight" 30
+"452" "Excellent" "About the right weight" 120
+"453" "Good" "Very overweight" 60
+"454" "Good" "About the right weight" 120
+"455" "Good" "Slightly underweight" 300
+"456" "Good" "About the right weight" 75
+"457" "Excellent" "Slightly overweight" 180
+"458" "Very Good" "Slightly overweight" 120
+"459" "Very Good" "Slightly overweight" 300
+"460" "Good" "About the right weight" 0
+"461" "Very Good" "Very underweight" 300
+"462" "Good" "About the right weight" 600
+"463" "Good" "About the right weight" 100
+"464" "Good" "Slightly underweight" 700
+"465" "Very Good" "Slightly overweight" 60
+"466" "Good" "Slightly underweight" 60
+"467" "Good" "Slightly overweight" 60
+"468" "Good" "Very overweight" 10
+"469" "Good" "About the right weight" 60
+"470" "Good" "About the right weight" 30
+"471" "Very Good" "Slightly underweight" 30
+"472" "Very Good" "About the right weight" 60
+"473" "Good" "Slightly underweight" 120
+"474" "Very Good" "About the right weight" 60
+"475" "Good" "About the right weight" 210
+"476" "Very Good" "About the right weight" 2
+"477" "Fair" "Slightly overweight" 30
+"478" "Fair" "Slightly underweight" 120
+"479" "Good" "About the right weight" 420
+"480" "Very Good" "About the right weight" 60
+"481" "Good" "Slightly underweight" 60
+"482" "Good" "Slightly overweight" 120
+"483" "Good" "About the right weight" 60
+"484" "Fair" "Slightly overweight" 360
+"485" "Good" "Very overweight" 60
+"486" "Very Good" "About the right weight" 500
+"487" NA "Slightly overweight" 180
+"488" NA "Very overweight" 0
+"489" "Good" "Slightly underweight" 90
+"490" "Very Good" "About the right weight" 240
+"491" "Very Good" "Slightly overweight" 60
+"492" "Good" "About the right weight" 180
+"493" "Very Good" "About the right weight" 30
+"494" "Very Good" "About the right weight" 250
+"495" "Very Good" "About the right weight" 60
+"496" "Excellent" "About the right weight" 30
+"497" "Fair" "Slightly overweight" 240
+"498" NA "Slightly overweight" 30
+"499" "Good" "Very overweight" 45
+"500" "Fair" "Slightly overweight" 30
+"501" "Very Good" "Slightly overweight" 120
+"502" "Fair" "About the right weight" 240
+"503" "Very Good" "About the right weight" 30
+"504" "Very Good" "About the right weight" 60
+"505" "Good" "About the right weight" 300
+"506" "Very Good" "About the right weight" 500
+"507" "Very Good" "About the right weight" 160
+"508" "Fair" "Very overweight" 30
+"509" "Fair" "Slightly overweight" 180
+"510" "Good" "About the right weight" 120
+"511" "Poor" "Slightly overweight" 15
+"512" "Good" "About the right weight" 480
+"513" "Very Good" "Slightly overweight" 400
+"514" "Very Good" "About the right weight" 60
+"515" "Good" "About the right weight" 60
+"516" "Good" "About the right weight" 120
+"517" "Good" "Very overweight" 120
+"518" "Very Good" "About the right weight" 240
+"519" "Very Good" "Slightly overweight" 120
+"520" "Very Good" "About the right weight" 80
+"521" "Good" "Slightly overweight" 2880
+"522" "Good" "Slightly underweight" 120
+"523" "Good" "Slightly overweight" 60
+"524" "Very Good" "Slightly overweight" 120
+"525" "Good" "About the right weight" 0
+"526" "Fair" "Slightly overweight" NA
+"527" "Very Good" "Slightly underweight" 50
+"528" "Fair" "Slightly overweight" 120
+"529" "Very Good" "About the right weight" 160
+"530" "Good" "Slightly overweight" 60
+"531" "Good" "About the right weight" 300
+"532" "Fair" "Very overweight" 100
+"533" "Good" "About the right weight" 40
+"534" "Good" "Very underweight" 2520
+"535" "Very Good" "About the right weight" 120
+"536" "Very Good" "About the right weight" 30
+"537" "Good" "About the right weight" 60
+"538" "Good" "Slightly overweight" 180
+"539" "Good" "Slightly overweight" 350
+"540" "Very Good" "About the right weight" 30
+"541" "Good" "Slightly overweight" 120
+"542" "Very Good" "Very overweight" 2
+"543" "Very Good" "About the right weight" 300
+"544" "Good" "Very overweight" 120
+"545" "Fair" "Slightly overweight" 30
+"546" "Fair" "About the right weight" 120
+"547" "Good" "About the right weight" 240
+"548" "Fair" "Slightly overweight" 30
+"549" "Very Good" "Slightly overweight" 480
+"550" "Very Good" "Slightly overweight" 420
+"551" "Very Good" "About the right weight" 300
+"552" "Excellent" "About the right weight" 60
+"553" "Fair" "About the right weight" 140
+"554" "Good" "Slightly overweight" 90
+"555" "Good" "Slightly overweight" 90
+"556" NA "Very overweight" 10
+"557" "Fair" "Very overweight" 7
+"558" "Very Good" "About the right weight" 15
+"559" "Fair" "Slightly overweight" 90
+"560" "Good" "About the right weight" 430
+"561" "Very Good" "Slightly overweight" 840
+"562" "Good" "About the right weight" 600
+"563" "Good" "Slightly overweight" 60
+"564" "Fair" "About the right weight" 240
+"565" "Very Good" "About the right weight" 60
+"566" "Good" "About the right weight" 90
+"567" "Very Good" "About the right weight" 360
+"568" "Very Good" "Slightly overweight" 180
+"569" "Poor" "Very underweight" 900
+"570" "Good" "About the right weight" 120
+"571" "Good" "About the right weight" 360
+"572" "Good" "About the right weight" 30
+"573" "Good" "Slightly overweight" 1260
+"574" "Good" "About the right weight" 400
+"575" "Very Good" "Slightly overweight" 120
+"576" "Poor" "Slightly underweight" 60
+"577" "Fair" "Very overweight" 120
+"578" "Fair" "About the right weight" 110
+"579" "Very Good" "About the right weight" 180
+"580" "Excellent" "About the right weight" 260
+"581" "Very Good" "About the right weight" 90
+"582" "Fair" "About the right weight" 45
+"583" "Good" "About the right weight" 720
+"584" "Very Good" "Slightly underweight" 150
+"585" "Good" "About the right weight" 120
+"586" "Very Good" "About the right weight" 300
+"587" "Good" "About the right weight" 120
+"588" "Good" "Slightly overweight" 300
+"589" "Good" "Slightly underweight" 420
+"590" "Fair" "Slightly overweight" 150
+"591" "Very Good" "Slightly underweight" 300
+"592" "Poor" "About the right weight" 60
+"593" "Very Good" "About the right weight" 120
+"594" "Very Good" "Slightly underweight" 300
+"595" "Very Good" "Slightly overweight" 900
+"596" "Good" "Slightly overweight" 120
+"597" "Excellent" "About the right weight" 420
+"598" "Good" "About the right weight" 780
+"599" "Good" "Slightly overweight" 450
+"600" "Very Good" "Very overweight" 60
+"601" "Good" "Slightly overweight" 35
+"602" "Good" "Slightly overweight" 420
+"603" "Good" "Slightly overweight" 125
+"604" "Fair" "About the right weight" 30
+"605" "Good" "Slightly underweight" 60
+"606" "Fair" "Slightly overweight" 30
+"607" "Good" "About the right weight" 630
+"608" "Good" "About the right weight" 60
+"609" "Very Good" "About the right weight" 180
+"610" "Very Good" "Very overweight" 30
+"611" "Good" "Slightly overweight" 300
+"612" "Good" "About the right weight" 60
+"613" "Good" "Slightly overweight" 120
+"614" "Very Good" "About the right weight" 420
+"615" "Good" "Slightly overweight" 240
+"616" "Excellent" "About the right weight" 420
+"617" "Good" "About the right weight" 120
+"618" "Very Good" "Slightly underweight" 120
+"619" "Very Good" "Slightly overweight" 400
+"620" "Fair" "Very overweight" 0
+"621" "Good" "Slightly overweight" 3600
+"622" "Good" "Slightly overweight" 180
+"623" "Very Good" "About the right weight" 600
+"624" "Good" "About the right weight" 200
+"625" "Very Good" "Slightly underweight" 10
+"626" "Good" "Very overweight" 60
+"627" "Good" "Slightly underweight" 102
+"628" "Excellent" "Slightly overweight" 60
+"629" "Fair" "Slightly overweight" 200
+"630" "Very Good" "About the right weight" 120
+"631" "Good" "Very overweight" 120
+"632" "Very Good" "About the right weight" 0
+"633" "Very Good" "About the right weight" 150
+"634" "Good" "About the right weight" 45
+"635" "Very Good" "Slightly overweight" 50
+"636" "Good" "About the right weight" 210
+"637" "Poor" "About the right weight" 60
+"638" "Good" "About the right weight" 50
+"639" "Good" "About the right weight" 300
+"640" "Very Good" "About the right weight" 180
+"641" "Excellent" "About the right weight" 300
+"642" "Good" "Slightly overweight" 180
+"643" "Good" "Slightly overweight" 120
+"644" "Very Good" "About the right weight" 60
+"645" "Very Good" "About the right weight" 300
+"646" "Good" "Slightly overweight" 200
+"647" "Good" "About the right weight" 120
+"648" "Good" "Slightly overweight" 10
+"649" "Good" "Slightly underweight" 360
+"650" "Good" "Slightly overweight" 900
+"651" "Excellent" "About the right weight" 300
+"652" "Very Good" "About the right weight" 55
+"653" "Very Good" "About the right weight" 90
+"654" "Very Good" "Slightly overweight" 1200
+"655" "Very Good" "Slightly overweight" 300
+"656" "Good" "Slightly underweight" 240
+"657" "Very Good" "About the right weight" 60
+"658" "Excellent" "About the right weight" 600
+"659" "Good" "Very underweight" 120
+"660" "Fair" "Slightly underweight" 1800
+"661" "Good" "Slightly overweight" 300
+"662" "Very Good" "Slightly underweight" 1260
+"663" "Very Good" "About the right weight" 600
+"664" "Good" "Very overweight" 600
+"665" "Fair" "Slightly overweight" 350
+"666" "Very Good" "About the right weight" 180
+"667" NA "About the right weight" 120
+"668" "Fair" "Slightly overweight" 90
+"669" "Good" "Slightly overweight" 30
+"670" "Fair" "About the right weight" 60
+"671" "Excellent" "About the right weight" 190
+"672" "Very Good" "About the right weight" 840
+"673" "Fair" "Slightly overweight" 60
+"674" "Good" "About the right weight" 60
+"675" "Good" "Slightly overweight" 240
+"676" "Very Good" "Slightly overweight" 500
+"677" "Very Good" "About the right weight" 500
+"678" "Very Good" "About the right weight" 190
+"679" "Very Good" "About the right weight" 200
+"680" "Good" "Slightly overweight" 90
+"681" "Very Good" "About the right weight" 180
+"682" "Good" "Slightly overweight" 500
+"683" "Good" "Slightly overweight" 120
+"684" "Very Good" "About the right weight" 30
+"685" "Fair" "About the right weight" 30
+"686" "Good" "About the right weight" 540
+"687" "Very Good" "About the right weight" 300
+"688" "Good" "Slightly overweight" 60
+"689" "Fair" "Slightly underweight" 1000
+"690" "Good" "About the right weight" 120
+"691" "Excellent" "Very overweight" 0
+"692" NA "Slightly overweight" 50
+"693" "Very Good" "Slightly overweight" 20
+"694" "Fair" "Slightly overweight" 60
+"695" NA "Slightly overweight" 90
+"696" "Good" "Slightly overweight" 840
+"697" "Very Good" "Very overweight" 540
+"698" "Excellent" "About the right weight" 120
+"699" "Very Good" "Slightly underweight" 300
+"700" "Very Good" "Slightly overweight" 180
+"701" "Very Good" "Slightly overweight" 450
+"702" "Very Good" "About the right weight" 500
+"703" "Very Good" "Slightly overweight" 360
+"704" "Good" "Slightly overweight" 480
+"705" "Fair" "About the right weight" 30
+"706" "Very Good" "About the right weight" 180
+"707" "Good" "About the right weight" 60
+"708" "Good" "About the right weight" 350
+"709" "Good" "Slightly overweight" 20
+"710" "Good" "About the right weight" 200
+"711" "Fair" "About the right weight" 120
+"712" "Very Good" "Slightly overweight" 210
+"713" "Very Good" "About the right weight" 300
+"714" "Good" "About the right weight" 5040
+"715" "Fair" "About the right weight" 3360
+"716" "Very Good" "About the right weight" 160
+"717" "Very Good" "Slightly underweight" 600
+"718" "Good" "About the right weight" 60
+"719" "Very Good" "Slightly overweight" 60
+"720" "Excellent" "About the right weight" 30
+"721" "Good" "Slightly overweight" 120
+"722" "Fair" "About the right weight" 60
+"723" NA "About the right weight" 60
+"724" "Good" "About the right weight" 100
+"725" "Very Good" "Slightly overweight" 30
+"726" "Very Good" "Slightly underweight" 30
+"727" "Excellent" "Slightly underweight" 200
+"728" "Fair" "Slightly overweight" 100
+"729" "Good" "About the right weight" 180
+"730" "Very Good" "Slightly underweight" 60
+"731" "Very Good" "Slightly overweight" 70
+"732" "Good" "About the right weight" 160
+"733" "Very Good" "About the right weight" 200
+"734" "Good" "About the right weight" 700
+"735" "Good" "About the right weight" 30
+"736" "Good" "Very overweight" 90
+"737" "Good" "About the right weight" 160
+"738" "Very Good" "Slightly overweight" 180
+"739" "Good" "Slightly underweight" 25
+"740" "Fair" "About the right weight" 360
+"741" "Good" "About the right weight" 180
+"742" "Good" "Slightly overweight" 80
+"743" "Good" "Slightly overweight" 90
+"744" "Good" "About the right weight" 80
+"745" "Poor" "About the right weight" 900
+"746" "Good" "About the right weight" 120
+"747" "Very Good" "About the right weight" 60
+"748" "Good" "Slightly overweight" 15
+"749" "Very Good" "Slightly overweight" 400
+"750" "Excellent" "Slightly overweight" 30
+"751" "Fair" "Slightly underweight" 30
+"752" "Good" "Slightly overweight" 120
+"753" "Excellent" "About the right weight" 120
+"754" "Good" "About the right weight" 240
+"755" "Good" "Slightly overweight" 300
+"756" "Good" "About the right weight" 315
+"757" "Good" "Slightly overweight" 60
+"758" "Good" "Slightly overweight" 1200
+"759" "Good" "About the right weight" 180
+"760" "Good" NA NA
+"761" "Good" "Very overweight" 60
+"762" "Good" "About the right weight" 480
+"763" "Good" "About the right weight" 90
+"764" "Excellent" "About the right weight" 240
+"765" "Fair" "Slightly overweight" 30
+"766" "Good" "About the right weight" 240
+"767" "Fair" "Very overweight" 80
+"768" "Very Good" "Slightly overweight" 60
+"769" "Good" "About the right weight" 240
+"770" "Good" "Slightly overweight" 0
+"771" "Fair" "Very overweight" 170
+"772" "Good" "About the right weight" 60
+"773" "Good" "About the right weight" 30
+"774" "Very Good" "About the right weight" 300
+"775" "Excellent" "Slightly overweight" 30
+"776" "Very Good" "About the right weight" 180
+"777" "Excellent" "Very underweight" 60
+"778" "Very Good" "Slightly overweight" 250
+"779" "Good" "Slightly underweight" 840
+"780" "Fair" "About the right weight" 120
+"781" "Good" "About the right weight" 15
+"782" "Very Good" "About the right weight" 60
+"783" "Good" "Slightly overweight" 30
+"784" "Good" "Slightly overweight" 60
+"785" "Fair" "About the right weight" 180
+"786" "Good" "Slightly overweight" 600
+"787" "Good" "About the right weight" 360
+"788" "Fair" "Slightly overweight" 60
+"789" "Good" "About the right weight" 60
+"790" NA "About the right weight" 30
+"791" "Fair" "About the right weight" 120
+"792" "Very Good" "About the right weight" 180
+"793" "Good" "Slightly overweight" 330
+"794" "Very Good" "About the right weight" 180
+"795" "Good" "About the right weight" 70
+"796" "Very Good" "Slightly overweight" 200
+"797" "Good" "Slightly overweight" 60
+"798" "Very Good" "About the right weight" 180
+"799" "Good" "Slightly underweight" 120
+"800" "Good" "About the right weight" 60
+"801" "Very Good" "Very overweight" 300
+"802" "Excellent" "Slightly overweight" 240
+"803" "Excellent" "Slightly overweight" 0
+"804" "Fair" "About the right weight" 0
+"805" "Good" "About the right weight" 420
+"806" "Very Good" "About the right weight" 30
+"807" "Excellent" "About the right weight" 500
+"808" "Good" "Very overweight" 60
+"809" "Very Good" "Slightly overweight" 0
+"810" "Very Good" "About the right weight" 120
+"811" "Good" "Slightly overweight" 90
+"812" "Good" "Slightly overweight" 120
+"813" "Good" "Slightly overweight" 300
+"814" "Very Good" "About the right weight" 200
+"815" "Good" "Slightly overweight" 0
+"816" "Excellent" "About the right weight" 60
+"817" "Very Good" "About the right weight" 90
+"818" "Very Good" "Slightly overweight" 30
+"819" "Very Good" "Slightly overweight" 200
+"820" "Very Good" "Very overweight" 300
+"821" "Very Good" "Slightly overweight" 120
+"822" "Very Good" "About the right weight" 210
+"823" "Good" "About the right weight" 120
+"824" "Good" "About the right weight" 60
+"825" "Very Good" "Slightly overweight" 570
+"826" "Very Good" "Slightly overweight" 15
+"827" "Very Good" "Slightly underweight" 90
+"828" "Good" "Slightly overweight" 120
+"829" "Good" "About the right weight" 420
+"830" "Good" "Slightly overweight" 1200
+"831" NA "About the right weight" 160
+"832" "Very Good" "About the right weight" 150
+"833" "Good" "Very overweight" 240
+"834" "Good" "About the right weight" 150
+"835" NA "Slightly overweight" 500
+"836" "Excellent" "About the right weight" 120
+"837" "Very Good" "About the right weight" 30
+"838" "Fair" "Very overweight" 210
+"839" "Very Good" "About the right weight" 3000
+"840" "Fair" "Slightly overweight" 240
+"841" "Good" "Slightly overweight" 200
+"842" "Fair" "About the right weight" 120
+"843" "Fair" "About the right weight" 50
+"844" "Good" "Very overweight" 60
+"845" "Good" "Slightly overweight" 45
+"846" "Very Good" "About the right weight" 300
+"847" "Fair" "Slightly overweight" 240
+"848" "Very Good" "About the right weight" 30
+"849" "Good" "Slightly overweight" 90
+"850" "Very Good" "Very overweight" 210
+"851" "Good" "About the right weight" 300
+"852" "Very Good" "About the right weight" 60
+"853" "Good" "Slightly overweight" 420
+"854" "Very Good" "About the right weight" 20
+"855" "Excellent" "Very overweight" 30
+"856" "Good" "Slightly overweight" 30
+"857" "Good" "Slightly underweight" 600
+"858" "Good" "Slightly overweight" 65
+"859" "Good" "Very overweight" 120
+"860" "Fair" "About the right weight" 240
+"861" "Good" "Slightly underweight" 90
+"862" "Fair" "Very overweight" 480
+"863" "Very Good" "About the right weight" 900
+"864" "Good" "Slightly overweight" 120
+"865" "Excellent" "About the right weight" 60
+"866" "Very Good" "About the right weight" 35
+"867" "Good" "Slightly overweight" 180
+"868" "Good" "Very overweight" 30
+"869" "Excellent" "About the right weight" 500
+"870" "Very Good" "Very overweight" 50
+"871" "Fair" "About the right weight" 350
+"872" "Excellent" "Slightly underweight" 300
+"873" "Good" "Slightly overweight" 600
+"874" "Good" "About the right weight" 30
+"875" "Excellent" "About the right weight" 120
+"876" "Good" "About the right weight" 90
+"877" "Fair" "Very overweight" 420
+"878" "Fair" "Slightly underweight" 60
+"879" "Good" "Slightly overweight" 180
+"880" "Fair" "Slightly overweight" 120
+"881" "Fair" "Very overweight" 70
+"882" "Very Good" "About the right weight" 420
+"883" "Good" "Slightly overweight" 180
+"884" "Very Good" "Slightly overweight" 240
+"885" "Very Good" "About the right weight" 120
+"886" "Very Good" "Slightly underweight" 240
+"887" "Very Good" "Slightly underweight" 200
+"888" "Good" "Very overweight" 60
+"889" "Very Good" "About the right weight" 420
+"890" "Very Good" "About the right weight" 80
+"891" "Very Good" "About the right weight" 1000
+"892" "Very Good" "About the right weight" 60
+"893" "Fair" "Slightly overweight" 60
+"894" "Very Good" "Slightly overweight" 120
+"895" "Very Good" "Very overweight" 240
+"896" "Excellent" "About the right weight" 300
+"897" "Good" "Slightly overweight" 60
+"898" "Good" "Slightly overweight" 250
+"899" NA "About the right weight" 90
+"900" "Very Good" "About the right weight" 180
+"901" "Very Good" "About the right weight" 120
+"902" "Good" "Very overweight" 150
+"903" "Good" "About the right weight" 360
+"904" "Very Good" "About the right weight" 300
+"905" "Fair" "About the right weight" 400
+"906" "Good" "Slightly underweight" 150
+"907" "Good" "Slightly overweight" 240
+"908" "Good" "Slightly overweight" 200
+"909" "Good" "Slightly overweight" 150
+"910" "Good" "About the right weight" 720
+"911" "Very Good" "About the right weight" 260
+"912" "Good" "Slightly overweight" 45
+"913" "Good" "About the right weight" 0
+"914" "Excellent" "About the right weight" 230
+"915" "Very Good" "About the right weight" 300
+"916" "Very Good" "Very underweight" 360
+"917" "Excellent" "Very overweight" 150
+"918" "Good" "About the right weight" 60
+"919" "Very Good" "About the right weight" 150
+"920" "Very Good" "About the right weight" 120
+"921" "Good" "Very overweight" 120
+"922" "Excellent" "Slightly overweight" 30
+"923" "Fair" "Slightly overweight" 0
+"924" "Good" "About the right weight" 400
+"925" "Fair" "Slightly overweight" 0
+"926" "Good" "Slightly overweight" 120
+"927" "Good" "About the right weight" 120
+"928" "Excellent" "About the right weight" 120
+"929" "Very Good" "About the right weight" 360
+"930" "Good" "About the right weight" 180
+"931" NA "About the right weight" 420
+"932" "Good" "About the right weight" 240
+"933" "Good" "Slightly overweight" 0
+"934" "Good" "About the right weight" 360
+"935" "Very Good" "About the right weight" 300
+"936" "Good" "About the right weight" 150
+"937" NA "Slightly overweight" 45
+"938" "Good" "About the right weight" 30
+"939" "Good" "Slightly overweight" 10
+"940" "Fair" "Slightly overweight" 90
+"941" "Very Good" "About the right weight" 30
+"942" "Fair" "About the right weight" 60
+"943" "Very Good" "Slightly overweight" 4000
+"944" "Good" "About the right weight" 150
+"945" "Fair" "Slightly overweight" 600
+"946" "Very Good" "About the right weight" 120
+"947" "Very Good" "About the right weight" 120
+"948" "Fair" "Slightly overweight" 45
+"949" "Very Good" "Slightly overweight" 120
+"950" "Good" "Slightly overweight" 120
+"951" "Excellent" "Slightly overweight" 420
+"952" "Very Good" "About the right weight" 3000
+"953" "Good" "Slightly overweight" 30
+"954" "Good" "About the right weight" 120
+"955" NA "Slightly overweight" 60
+"956" "Good" "About the right weight" 60
+"957" "Very Good" "About the right weight" 1500
+"958" "Good" "Slightly overweight" 600
+"959" "Excellent" "Slightly overweight" 270
+"960" "Very Good" "Slightly underweight" 120
+"961" "Fair" "Slightly overweight" 240
+"962" "Excellent" "About the right weight" 270
+"963" "Good" "About the right weight" 120
+"964" "Very Good" "About the right weight" 20
+"965" "Very Good" "About the right weight" 400
+"966" "Excellent" "About the right weight" 120
+"967" "Good" "Very overweight" 120
+"968" "Fair" "Slightly underweight" 120
+"969" "Very Good" "Slightly overweight" 60
+"970" "Very Good" "About the right weight" 120
+"971" "Very Good" "Slightly overweight" 105
+"972" "Excellent" "About the right weight" 420
+"973" "Very Good" "Slightly overweight" 210
+"974" "Very Good" "Very overweight" 720
+"975" "Good" "About the right weight" 60
+"976" NA "Slightly overweight" 180
+"977" "Excellent" "Slightly overweight" 240
+"978" "Very Good" "About the right weight" 360
+"979" "Very Good" "Slightly overweight" 450
+"980" "Good" "About the right weight" 60
+"981" "Good" "Slightly overweight" 30
+"982" "Good" "About the right weight" 320
+"983" "Good" "About the right weight" 75
+"984" "Excellent" "Slightly underweight" 180
+"985" "Good" "Slightly overweight" 120
+"986" "Good" "Slightly overweight" 45
+"987" "Fair" "About the right weight" 200
+"988" "Very Good" "About the right weight" 180
+"989" "Good" "About the right weight" 130
+"990" "Good" "Very overweight" 300
+"991" "Very Good" "Slightly overweight" 60
+"992" "Very Good" "Slightly overweight" 420
+"993" "Good" "About the right weight" 2300
+"994" "Good" "About the right weight" 840
+"995" "Good" "Very overweight" 210
+"996" NA "About the right weight" 460
+"997" "Fair" "About the right weight" 70
+"998" "Very Good" "About the right weight" 360
+"999" "Excellent" "About the right weight" 300
+"1000" "Good" "Slightly overweight" 0
+"1001" "Good" "Very overweight" 40
+"1002" "Very Good" "Slightly underweight" 120
+"1003" "Good" "Slightly overweight" 90
+"1004" "Good" "About the right weight" 500
+"1005" "Good" "Slightly overweight" 800
+"1006" "Very Good" "About the right weight" 260
+"1007" "Very Good" "Very overweight" 60
+"1008" "Fair" "Slightly overweight" 180
+"1009" "Good" "About the right weight" 240
+"1010" "Good" "Slightly overweight" 210
+"1011" "Fair" "Very overweight" 120
+"1012" "Fair" "About the right weight" 240
+"1013" "Fair" "Slightly overweight" 300
+"1014" "Excellent" "About the right weight" 60
+"1015" "Very Good" "Slightly underweight" 180
+"1016" "Excellent" "Slightly overweight" 30
+"1017" "Good" "Slightly overweight" 30
+"1018" "Good" "Slightly overweight" 90
+"1019" "Good" "About the right weight" 60
+"1020" "Very Good" "About the right weight" 60
+"1021" "Good" "About the right weight" 35
+"1022" "Very Good" "Slightly overweight" 180
+"1023" "Good" "About the right weight" 200
+"1024" "Good" "Slightly underweight" 60
+"1025" "Good" "Slightly underweight" 300
+"1026" "Good" "About the right weight" 60
+"1027" "Fair" "Very overweight" 70
+"1028" "Excellent" "About the right weight" 198
+"1029" "Good" "About the right weight" 210
+"1030" "Fair" "Slightly overweight" 200
+"1031" "Good" "Slightly overweight" 4000
+"1032" "Good" "Slightly overweight" 600
+"1033" "Good" "About the right weight" 2880
+"1034" "Very Good" "About the right weight" 600
+"1035" "Very Good" "Slightly overweight" 300
+"1036" "Very Good" "Slightly overweight" 360
+"1037" "Very Good" "Slightly overweight" 50
+"1038" "Fair" "Very underweight" 840
+"1039" "Very Good" "Slightly overweight" 420
+"1040" "Very Good" "About the right weight" 60
+"1041" "Very Good" "About the right weight" 150
+"1042" "Very Good" "Slightly underweight" 120
+"1043" "Excellent" "About the right weight" 300
+"1044" "Very Good" "About the right weight" 200
+"1045" "Very Good" "Slightly overweight" 480
+"1046" "Good" "About the right weight" 120
+"1047" "Fair" "Very overweight" 90
+"1048" "Good" "About the right weight" 1260
+"1049" "Fair" "About the right weight" 120
+"1050" "Fair" "Slightly overweight" 420
+"1051" "Good" "About the right weight" 60
+"1052" "Good" "About the right weight" 20
+"1053" NA "About the right weight" 360
+"1054" "Very Good" "About the right weight" 120
+"1055" "Good" "About the right weight" 200
+"1056" "Good" "About the right weight" 120
+"1057" "Very Good" "Slightly overweight" 180
+"1058" "Fair" "Slightly overweight" 120
+"1059" "Poor" "Very overweight" 1260
+"1060" "Good" "About the right weight" 0
+"1061" "Very Good" "About the right weight" 300
+"1062" "Good" "About the right weight" 180
+"1063" "Very Good" "About the right weight" 420
+"1064" "Fair" "Slightly overweight" 480
+"1065" "Good" "Very overweight" 350
+"1066" "Good" "About the right weight" 180
+"1067" "Very Good" "About the right weight" 120
+"1068" "Excellent" "About the right weight" 210
+"1069" "Very Good" "About the right weight" 30
+"1070" "Fair" "About the right weight" 60
+"1071" "Good" "About the right weight" 300
+"1072" "Very Good" "About the right weight" 4320
+"1073" "Good" "About the right weight" 120
+"1074" "Very Good" "Slightly underweight" 250
+"1075" "Good" "Very overweight" 90
+"1076" "Good" "Slightly overweight" 180
+"1077" "Very Good" "About the right weight" 45
+"1078" "Very Good" "About the right weight" 240
+"1079" "Very Good" "About the right weight" 840
+"1080" "Very Good" "About the right weight" 220
+"1081" "Good" "About the right weight" 300
+"1082" "Very Good" "About the right weight" 60
+"1083" "Fair" "Slightly overweight" 360
+"1084" "Very Good" "About the right weight" 0
+"1085" "Fair" "Slightly underweight" 210
+"1086" "Very Good" "About the right weight" 60
+"1087" "Good" "Very overweight" 60
+"1088" "Very Good" "Slightly overweight" 120
+"1089" "Good" "Slightly underweight" 240
+"1090" "Good" "About the right weight" 360
+"1091" "Fair" "About the right weight" 120
+"1092" "Good" "About the right weight" 180
+"1093" "Fair" "Slightly overweight" 30
+"1094" "Very Good" "About the right weight" 240
+"1095" "Very Good" "About the right weight" 100
+"1096" "Good" "Slightly underweight" NA
+"1097" "Very Good" "Slightly overweight" 210
+"1098" "Excellent" "Slightly overweight" 240
+"1099" "Good" "Slightly overweight" 120
+"1100" "Fair" "Slightly overweight" 180
+"1101" "Good" "Very overweight" 300
+"1102" "Good" "About the right weight" 60
+"1103" "Excellent" "About the right weight" 150
+"1104" "Very Good" "About the right weight" 120
+"1105" "Fair" "Slightly underweight" 10
+"1106" "Very Good" "Slightly overweight" 180
+"1107" "Very Good" "About the right weight" 60
+"1108" "Excellent" "About the right weight" 60
+"1109" "Very Good" "About the right weight" 120
+"1110" "Very Good" "Slightly overweight" 60
+"1111" "Fair" "Slightly overweight" 120
+"1112" "Good" "About the right weight" 0
+"1113" "Good" "About the right weight" 120
+"1114" "Fair" "Slightly underweight" 60
+"1115" "Good" "Very overweight" 60
+"1116" "Fair" "Slightly underweight" 60
+"1117" "Good" "About the right weight" 600
+"1118" "Poor" "Slightly overweight" 60
+"1119" "Excellent" "About the right weight" 420
+"1120" "Good" "Very overweight" 200
+"1121" "Good" "About the right weight" 0
+"1122" NA "Very overweight" 100
+"1123" "Fair" "Slightly overweight" 60
+"1124" "Good" "Slightly overweight" 60
+"1125" "Very Good" "About the right weight" 0
+"1126" "Excellent" "About the right weight" 20
+"1127" "Good" "About the right weight" 0
+"1128" "Good" "About the right weight" 180
+"1129" "Good" "Slightly overweight" 40
+"1130" "Very Good" "About the right weight" 300
+"1131" "Good" "Slightly overweight" 360
+"1132" "Good" "About the right weight" 60
+"1133" "Good" "Slightly overweight" 700
+"1134" "Very Good" "Slightly overweight" 120
+"1135" "Very Good" "Slightly overweight" 280
+"1136" "Excellent" "About the right weight" 300
+"1137" "Excellent" "About the right weight" 120
+"1138" "Excellent" "About the right weight" 1800
+"1139" "Very Good" "Slightly overweight" 40
+"1140" "Very Good" "Slightly overweight" 2400
+"1141" "Good" "Slightly overweight" 240
+"1142" "Good" "About the right weight" 200
+"1143" "Very Good" "About the right weight" 130
+"1144" "Good" "About the right weight" 240
+"1145" "Good" "About the right weight" 60
+"1146" "Very Good" "About the right weight" 300
+"1147" "Fair" "Very overweight" 90
+"1148" "Good" "About the right weight" 180
+"1149" "Good" "Slightly overweight" 180
+"1150" "Very Good" "About the right weight" 360
+"1151" "Excellent" "About the right weight" 60
+"1152" "Good" "Slightly overweight" 170
+"1153" "Good" "About the right weight" 60
+"1154" "Good" "Slightly overweight" 300
+"1155" "Fair" "Very overweight" 90
+"1156" "Excellent" "About the right weight" 48
+"1157" "Good" "Slightly overweight" 0
+"1158" "Very Good" "Slightly overweight" 140
+"1159" "Very Good" "About the right weight" 600
+"1160" "Good" "Slightly underweight" 120
+"1161" "Very Good" "About the right weight" 210
+"1162" "Good" "Slightly overweight" 90
+"1163" "Good" "About the right weight" 60
+"1164" "Very Good" "Slightly overweight" 120
+"1165" "Good" "Slightly underweight" 60
+"1166" "Good" "Slightly underweight" 120
+"1167" NA "Slightly underweight" 75
+"1168" "Very Good" "Slightly overweight" 120
+"1169" "Good" "About the right weight" 240
+"1170" "Very Good" "About the right weight" 180
+"1171" "Very Good" "Slightly overweight" 240
+"1172" "Good" "About the right weight" 180
+"1173" "Fair" "About the right weight" NA
+"1174" "Good" "Very overweight" 60
+"1175" "Fair" "Slightly overweight" 1000
+"1176" "Very Good" "About the right weight" 180
+"1177" "Very Good" "About the right weight" 100
+"1178" "Very Good" "Slightly underweight" NA
+"1179" "Very Good" "Slightly underweight" 3
+"1180" "Very Good" "About the right weight" 120
+"1181" "Good" "Slightly overweight" 270
+"1182" "Good" "Slightly underweight" 30
+"1183" "Good" "Slightly overweight" 20
+"1184" "Excellent" "About the right weight" 480
+"1185" "Excellent" "About the right weight" 300
+"1186" "Good" "About the right weight" NA
+"1187" "Very Good" "About the right weight" 120
+"1188" "Good" "Slightly overweight" 60
+"1189" "Very Good" "About the right weight" 300
+"1190" "Poor" "Very overweight" 300
+"1191" "Excellent" "About the right weight" 300
+"1192" "Very Good" "About the right weight" 360
+"1193" "Very Good" "About the right weight" 300
+"1194" "Good" "About the right weight" 60
+"1195" "Very Good" "Slightly overweight" 60
+"1196" "Very Good" "About the right weight" 80
+"1197" "Good" "Slightly overweight" 500
+"1198" "Excellent" "About the right weight" 300
+"1199" NA "Slightly overweight" 65
+"1200" "Good" "About the right weight" 90
+"1201" "Good" "Slightly overweight" 300
+"1202" "Excellent" "Slightly overweight" 300
+"1203" "Fair" "About the right weight" 210
+"1204" "Good" "Very overweight" 150
+"1205" "Good" "Slightly underweight" 10
+"1206" "Very Good" "About the right weight" 30
+"1207" "Good" "Slightly overweight" 100
+"1208" "Very Good" "About the right weight" 60
+"1209" "Fair" "Very overweight" 210
+"1210" "Poor" "Very overweight" 123
+"1211" "Excellent" "About the right weight" 60
+"1212" "Excellent" "Slightly overweight" 120
+"1213" "Excellent" "About the right weight" 500
+"1214" "Very Good" "Slightly underweight" 120
+"1215" "Very Good" "Slightly overweight" 240
+"1216" "Excellent" "About the right weight" 120
+"1217" "Poor" "Very underweight" 120
+"1218" "Good" "Slightly overweight" 240
+"1219" "Fair" "About the right weight" 120
+"1220" "Good" "Slightly overweight" 3500
+"1221" "Good" "Slightly overweight" 140
+"1222" "Fair" "Slightly overweight" 0
+"1223" "Good" "About the right weight" 600
+"1224" "Excellent" "About the right weight" 630
+"1225" "Very Good" "Slightly overweight" 120
+"1226" "Fair" "About the right weight" 1600
+"1227" "Good" "About the right weight" 84
+"1228" "Very Good" "About the right weight" 100
+"1229" "Good" "Slightly overweight" 180
+"1230" "Good" "Very overweight" 90
+"1231" "Good" "Slightly overweight" 60
+"1232" "Good" "Slightly overweight" 480
+"1233" "Very Good" "Slightly overweight" 120
+"1234" "Very Good" "About the right weight" 90
+"1235" "Good" "Slightly overweight" 25
+"1236" "Good" "Slightly underweight" 20
+"1237" "Fair" "About the right weight" 0
+"1238" "Very Good" "Slightly overweight" 60
+"1239" "Fair" "Slightly overweight" 164
+"1240" "Good" "About the right weight" 180
+"1241" "Good" "Slightly overweight" 120
+"1242" "Good" "About the right weight" 210
+"1243" "Fair" "Slightly overweight" 45
+"1244" "Good" "Slightly underweight" 120
+"1245" "Very Good" "About the right weight" 240
+"1246" "Good" "Slightly overweight" 360
+"1247" "Very Good" "Slightly overweight" 480
+"1248" "Good" "Very overweight" 5
+"1249" "Good" "About the right weight" 450
+"1250" "Good" "About the right weight" 420
+"1251" "Good" "Slightly overweight" 60
+"1252" "Fair" "About the right weight" 90
+"1253" "Very Good" "About the right weight" 1000
+"1254" "Good" "Slightly underweight" 0
+"1255" "Good" "Slightly overweight" 180
+"1256" "Good" "About the right weight" 600
+"1257" "Fair" "Very overweight" 155
+"1258" "Good" "Slightly overweight" 900
+"1259" "Good" "Slightly overweight" 60
+"1260" "Good" "About the right weight" 120
+"1261" "Good" "Slightly overweight" 60
+"1262" "Good" "Slightly overweight" 80
+"1263" "Good" "Slightly overweight" 240
+"1264" "Very Good" "About the right weight" 120
+"1265" "Good" "About the right weight" 160
+"1266" "Excellent" "About the right weight" 600
+"1267" "Good" "Slightly underweight" 10
+"1268" "Excellent" "About the right weight" 60
+"1269" "Fair" "Slightly overweight" 210
+"1270" "Good" "About the right weight" 60
+"1271" "Good" "Slightly overweight" 240
+"1272" "Fair" "Slightly overweight" 1000
+"1273" "Fair" "Slightly overweight" 60
+"1274" "Good" "Slightly overweight" 30
+"1275" "Fair" "About the right weight" 120
+"1276" "Very Good" "About the right weight" 90
+"1277" "Good" "About the right weight" 120
+"1278" "Very Good" "Slightly overweight" 60
+"1279" "Good" "Slightly overweight" 120
+"1280" "Good" "Slightly overweight" 35
+"1281" "Good" "About the right weight" 200
+"1282" "Very Good" "Slightly overweight" 180
+"1283" "Very Good" "Slightly overweight" 60
+"1284" "Very Good" "About the right weight" 900
+"1285" "Very Good" "About the right weight" 0
+"1286" "Good" "Slightly underweight" 30
+"1287" "Fair" "Very overweight" 20
+"1288" "Fair" "Slightly overweight" 20
+"1289" "Excellent" "About the right weight" 120
+"1290" "Good" "About the right weight" 420
+"1291" "Fair" "About the right weight" 180
+"1292" "Good" "About the right weight" 300
+"1293" "Very Good" "Slightly overweight" 200
+"1294" "Poor" "Slightly overweight" 400
+"1295" "Fair" "Slightly overweight" 2800
+"1296" "Good" "About the right weight" 180
+"1297" "Very Good" "About the right weight" 60
+"1298" "Fair" "About the right weight" 45
+"1299" "Good" "Slightly underweight" 120
+"1300" "Very Good" "About the right weight" 90
+"1301" "Very Good" "About the right weight" 60
+"1302" "Good" "Slightly overweight" NA
+"1303" "Good" "About the right weight" 30
+"1304" "Very Good" "Slightly overweight" 45
+"1305" "Very Good" "About the right weight" 60
+"1306" "Good" "About the right weight" 240
+"1307" "Good" "About the right weight" 360
+"1308" "Good" "Very overweight" 180
+"1309" "Very Good" "About the right weight" 480
+"1310" "Good" "Slightly overweight" 130
+"1311" "Very Good" "Very overweight" 60
+"1312" "Good" "Very overweight" 1000
+"1313" "Very Good" "Slightly overweight" 120
+"1314" "Fair" "Very overweight" 180
+"1315" "Very Good" "Slightly underweight" 120
+"1316" "Good" "About the right weight" 90
+"1317" "Fair" "Very overweight" 0
+"1318" NA "Slightly overweight" 180
+"1319" "Good" "About the right weight" 300
+"1320" "Good" "Slightly overweight" 40
+"1321" "Good" "About the right weight" 600
+"1322" "Very Good" "About the right weight" 400
+"1323" "Good" "About the right weight" 360
+"1324" "Very Good" "Slightly overweight" 300
+"1325" "Good" "Very overweight" 30
+"1326" "Good" "About the right weight" 300
+"1327" "Very Good" "Slightly underweight" 210
+"1328" "Very Good" "Slightly overweight" 120
+"1329" "Excellent" "About the right weight" 420
+"1330" "Good" "Slightly overweight" 180
+"1331" "Fair" "About the right weight" 130
+"1332" "Good" "Slightly overweight" 20
+"1333" "Good" "Slightly overweight" 150
+"1334" "Excellent" "About the right weight" 60
+"1335" "Very Good" "About the right weight" 300
+"1336" "Excellent" "About the right weight" 500
+"1337" "Excellent" "About the right weight" 128
+"1338" "Good" "About the right weight" 60
+"1339" "Excellent" "About the right weight" 300
+"1340" "Good" "About the right weight" 100
+"1341" "Good" "Slightly underweight" 210
+"1342" "Good" "Slightly underweight" 150
+"1343" "Very Good" "About the right weight" 60
+"1344" "Good" "Slightly underweight" 250
+"1345" "Fair" "About the right weight" 120
+"1346" "Fair" "Slightly overweight" 45
+"1347" "Very Good" "About the right weight" 600
+"1348" "Fair" "About the right weight" 420
+"1349" "Excellent" "About the right weight" 90
+"1350" "Very Good" "About the right weight" 500
+"1351" "Very Good" "Slightly underweight" 180
+"1352" "Good" "About the right weight" 30
+"1353" "Good" "Slightly overweight" 225
+"1354" "Very Good" "About the right weight" 120
+"1355" "Very Good" "About the right weight" 40
+"1356" "Good" "Very overweight" 60
+"1357" "Very Good" "About the right weight" 350
+"1358" "Very Good" "Very underweight" 60
+"1359" "Very Good" "Slightly overweight" 120
+"1360" "Good" "Very overweight" 150
+"1361" "Fair" "Slightly overweight" 0
+"1362" "Good" "Slightly overweight" 250
+"1363" "Very Good" "About the right weight" 540
+"1364" "Very Good" "Slightly overweight" 60
+"1365" "Fair" "Very overweight" 15
+"1366" "Very Good" "About the right weight" 210
+"1367" "Very Good" "About the right weight" 180
+"1368" "Excellent" "About the right weight" 960
+"1369" "Very Good" "About the right weight" 600
+"1370" "Very Good" "About the right weight" 200
+"1371" "Good" "Slightly overweight" 30
+"1372" "Fair" "Slightly overweight" 240
+"1373" "Very Good" "Very overweight" 60
+"1374" "Very Good" "Very overweight" 200
+"1375" "Poor" "Slightly overweight" 120
+"1376" "Excellent" "About the right weight" 180
+"1377" "Fair" "About the right weight" 90
+"1378" "Very Good" "Slightly overweight" 140
+"1379" "Very Good" "Slightly underweight" 120
+"1380" "Excellent" "Slightly overweight" 120
+"1381" "Good" "About the right weight" 45
+"1382" "Good" "About the right weight" 120
+"1383" "Good" "About the right weight" 150
+"1384" "Very Good" "About the right weight" 600
+"1385" "Good" "Very overweight" 20
+"1386" "Very Good" "Slightly overweight" 120
+"1387" "Fair" "Slightly overweight" 45
+"1388" "Good" "Slightly underweight" 60
+"1389" NA "Slightly overweight" 150
+"1390" "Very Good" "About the right weight" 240
+"1391" "Good" "Slightly overweight" 360
+"1392" "Very Good" "About the right weight" 120
+"1393" "Very Good" "About the right weight" 420
+"1394" "Very Good" "About the right weight" 500
+"1395" "Excellent" "Very overweight" 60
+"1396" "Excellent" "Slightly overweight" 120
+"1397" "Good" "Slightly overweight" 500
+"1398" "Very Good" "About the right weight" 360
+"1399" "Very Good" "About the right weight" 420
+"1400" "Good" "About the right weight" 500
+"1401" "Very Good" "About the right weight" 250
+"1402" "Fair" "About the right weight" 420
+"1403" "Very Good" "Slightly overweight" 80
+"1404" "Very Good" "About the right weight" 500
+"1405" "Very Good" "About the right weight" 200
+"1406" "Excellent" "About the right weight" 350
+"1407" "Poor" "Very overweight" 0
+"1408" "Very Good" "Slightly overweight" 60
+"1409" "Very Good" "Very overweight" 60
+"1410" "Good" "Slightly overweight" 120
+"1411" "Very Good" "Slightly overweight" 0
+"1412" "Good" "About the right weight" 700
+"1413" "Excellent" "Slightly underweight" 60
+"1414" "Good" "About the right weight" 20
+"1415" "Good" "About the right weight" 30
+"1416" "Very Good" "About the right weight" 300
+"1417" NA "About the right weight" 5
+"1418" "Good" "Very overweight" 715
+"1419" "Good" "About the right weight" 300
+"1420" "Excellent" "Slightly overweight" 240
+"1421" "Good" "Slightly overweight" 600
+"1422" "Fair" "Very overweight" 140
+"1423" "Very Good" "Slightly overweight" 0
+"1424" "Good" "Slightly overweight" 120
+"1425" "Good" "About the right weight" 120
+"1426" "Excellent" "About the right weight" 30
+"1427" "Good" "Slightly overweight" 200
+"1428" "Very Good" "Slightly underweight" 120
+"1429" "Excellent" "Very overweight" 300
+"1430" "Very Good" "Slightly overweight" 30
+"1431" "Very Good" "About the right weight" 60
+"1432" "Good" "About the right weight" 240
+"1433" "Fair" "Very overweight" 360
+"1434" "Good" "Slightly overweight" 360
+"1435" "Very Good" "Slightly overweight" 240
+"1436" "Good" "Slightly overweight" 240
+"1437" "Fair" "About the right weight" 60
+"1438" "Very Good" "Slightly overweight" 150
+"1439" "Very Good" "About the right weight" 5
+"1440" NA "Slightly underweight" 150
+"1441" "Very Good" "About the right weight" 180
+"1442" "Very Good" "Slightly overweight" 150
+"1443" "Excellent" "About the right weight" 380
+"1444" "Good" "Slightly overweight" 60
+"1445" "Good" "About the right weight" 60
+"1446" "Good" "About the right weight" 30
+"1447" "Very Good" "Slightly overweight" 300
+"1448" "Good" "Very overweight" 30
+"1449" "Good" "About the right weight" 15
+"1450" "Good" "About the right weight" 90
+"1451" "Good" "About the right weight" 90
+"1452" "Good" "Slightly overweight" 3000
+"1453" "Very Good" "About the right weight" 300
+"1454" "Good" "Very overweight" 45
+"1455" "Very Good" "Slightly overweight" 60
+"1456" "Good" "Slightly overweight" 300
+"1457" "Very Good" "About the right weight" 120
+"1458" "Good" "About the right weight" 150
+"1459" "Fair" "Very overweight" 1200
+"1460" "Very Good" "About the right weight" 120
+"1461" "Excellent" "Slightly underweight" 150
+"1462" "Fair" "Very overweight" 130
+"1463" "Excellent" "About the right weight" 20
+"1464" "Fair" "Slightly overweight" 100
+"1465" "Good" "Slightly underweight" 400
+"1466" "Very Good" "About the right weight" 2400
+"1467" NA "About the right weight" 30
+"1468" "Very Good" "About the right weight" 45
+"1469" "Very Good" "About the right weight" 480
+"1470" "Very Good" "About the right weight" 1185
+"1471" "Very Good" "Slightly overweight" 30
+"1472" "Very Good" "About the right weight" 45
+"1473" "Good" "About the right weight" 300
+"1474" "Very Good" "About the right weight" 45
+"1475" "Very Good" "About the right weight" 1200
+"1476" "Excellent" "About the right weight" 120
+"1477" "Excellent" "About the right weight" 60
+"1478" "Very Good" "Slightly overweight" 160
+"1479" "Very Good" "Slightly overweight" 360
+"1480" "Very Good" "Slightly overweight" 240
+"1481" "Very Good" "Slightly overweight" 360
+"1482" "Very Good" "About the right weight" 350
+"1483" "Good" "Very overweight" 300
+"1484" "Excellent" "Slightly underweight" 180
+"1485" "Fair" "Slightly overweight" NA
+"1486" "Excellent" "About the right weight" 420
+"1487" "Good" "Slightly overweight" 120
+"1488" "Good" "About the right weight" 30
+"1489" "Good" "Very overweight" 700
+"1490" "Good" "Slightly overweight" 150
+"1491" "Very Good" "Very overweight" 120
+"1492" NA "About the right weight" 120
+"1493" "Very Good" "About the right weight" 45
+"1494" "Excellent" "About the right weight" 300
+"1495" "Good" "About the right weight" 0
+"1496" "Excellent" "Slightly overweight" 20
+"1497" "Good" "Slightly overweight" 180
+"1498" "Very Good" "About the right weight" 360
+"1499" "Fair" "About the right weight" 600
+"1500" "Poor" "About the right weight" 20
+"1501" "Good" "Very overweight" 30
+"1502" "Very Good" "About the right weight" 180
+"1503" "Good" "About the right weight" 120
+"1504" "Very Good" "About the right weight" 120
+"1505" "Good" "Slightly overweight" 120
+"1506" "Excellent" "About the right weight" 60
+"1507" "Good" "Slightly overweight" 60
+"1508" "Good" "Slightly overweight" 80
+"1509" "Good" "Slightly overweight" 180
+"1510" "Fair" "About the right weight" 260
+"1511" "Fair" "About the right weight" NA
+"1512" "Excellent" "Very overweight" 300
+"1513" "Very Good" "Slightly overweight" 140
+"1514" "Very Good" "About the right weight" 60
+"1515" "Good" "About the right weight" 200
+"1516" "Good" "Very overweight" 90
+"1517" "Very Good" "Slightly overweight" 350
+"1518" "Excellent" "About the right weight" 300
+"1519" "Good" "Slightly overweight" 60
+"1520" "Very Good" "Slightly overweight" 840
+"1521" "Fair" "About the right weight" 720
+"1522" "Good" "About the right weight" 135
+"1523" "Good" "Very overweight" 420
+"1524" "Good" "Very overweight" 0
+"1525" "Good" "About the right weight" 420
+"1526" "Good" "About the right weight" 300
+"1527" "Good" "Very overweight" 180
+"1528" "Very Good" "About the right weight" 500
+"1529" "Good" "Slightly overweight" 40
+"1530" "Very Good" "Very overweight" 600
+"1531" "Poor" "About the right weight" 0
+"1532" "Very Good" "About the right weight" 540
+"1533" "Good" "About the right weight" 360
+"1534" "Very Good" "Slightly overweight" 90
+"1535" "Very Good" "About the right weight" 60
+"1536" "Good" "About the right weight" 300
+"1537" "Good" "About the right weight" 120
+"1538" "Very Good" "About the right weight" 380
+"1539" "Very Good" "About the right weight" 180
+"1540" "Good" "Slightly overweight" 60
+"1541" "Good" "About the right weight" 200
+"1542" "Good" "Very overweight" 150
+"1543" "Very Good" "Slightly overweight" 360
+"1544" "Good" "About the right weight" 30
+"1545" "Good" "Slightly underweight" 300
+"1546" "Good" "Slightly overweight" 120
+"1547" "Very Good" "About the right weight" 200
+"1548" "Very Good" "About the right weight" 200
+"1549" "Fair" "Very overweight" 30
+"1550" "Very Good" "Slightly overweight" 30
+"1551" "Good" "Slightly overweight" 230
+"1552" "Very Good" "About the right weight" 120
+"1553" "Very Good" "Slightly underweight" 200
+"1554" "Good" "Slightly overweight" 700
+"1555" "Very Good" "Slightly overweight" 60
+"1556" "Good" "Very underweight" 30
+"1557" "Excellent" "About the right weight" 120
+"1558" "Very Good" "Slightly overweight" 120
+"1559" "Very Good" "Slightly underweight" NA
+"1560" "Good" "About the right weight" 120
+"1561" "Good" "About the right weight" 30
+"1562" "Excellent" "About the right weight" 30
+"1563" "Very Good" "About the right weight" 180
+"1564" "Poor" "Slightly underweight" 420
+"1565" "Fair" "Very overweight" 60
+"1566" "Good" "Slightly underweight" 60
+"1567" "Excellent" "Slightly overweight" 120
+"1568" "Very Good" "About the right weight" 480
+"1569" "Fair" "Very overweight" 45
+"1570" "Very Good" "About the right weight" 120
+"1571" "Good" "About the right weight" 200
+"1572" "Fair" "Slightly underweight" 0
+"1573" "Very Good" "About the right weight" 600
+"1574" "Good" "Slightly overweight" 250
+"1575" "Good" "Slightly overweight" 2400
+"1576" "Excellent" "About the right weight" 180
+"1577" "Excellent" "About the right weight" 90
+"1578" "Excellent" "Slightly overweight" 300
+"1579" "Very Good" "About the right weight" 700
+"1580" "Good" "About the right weight" 300
+"1581" "Good" "Slightly overweight" 360
+"1582" "Very Good" "About the right weight" 270
+"1583" "Excellent" "Very overweight" 20
+"1584" "Very Good" "About the right weight" 120
+"1585" "Very Good" "About the right weight" 300
+"1586" "Fair" "Slightly underweight" 300
+"1587" "Fair" "Very overweight" 350
+"1588" "Very Good" "Slightly overweight" 120
+"1589" "Excellent" "About the right weight" 300
+"1590" "Excellent" "About the right weight" 60
+"1591" "Excellent" "Slightly overweight" 60
+"1592" "Very Good" "About the right weight" 200
+"1593" "Excellent" "About the right weight" 30
+"1594" "Very Good" "Slightly overweight" 245
+"1595" "Very Good" "Slightly overweight" 400
+"1596" "Fair" "Slightly overweight" 30
+"1597" "Very Good" "About the right weight" 300
+"1598" "Good" "Slightly overweight" 500
+"1599" "Excellent" "About the right weight" 180
+"1600" "Good" "Slightly overweight" 150
+"1601" "Fair" "Slightly underweight" 300
+"1602" "Very Good" "About the right weight" NA
+"1603" "Very Good" "Slightly overweight" 420
+"1604" "Good" "About the right weight" 240
+"1605" "Good" "Slightly overweight" 60
+"1606" "Very Good" "About the right weight" 120
+"1607" "Fair" "About the right weight" 120
+"1608" "Very Good" "About the right weight" 60
+"1609" "Good" "Very overweight" 30
+"1610" "Very Good" "About the right weight" 1500
+"1611" "Good" "Slightly overweight" 0
+"1612" "Very Good" "Slightly overweight" 160
+"1613" "Good" "About the right weight" 500
+"1614" "Good" "Slightly overweight" 120
+"1615" "Good" "About the right weight" 840
+"1616" "Very Good" "About the right weight" 120
+"1617" "Very Good" "About the right weight" 840
+"1618" "Fair" "Very overweight" 210
+"1619" "Very Good" "Slightly overweight" 100
+"1620" "Good" "About the right weight" 500
+"1621" "Very Good" "About the right weight" 120
+"1622" "Very Good" "Slightly overweight" 180
+"1623" "Very Good" "Slightly overweight" 210
+"1624" "Good" "Slightly underweight" 465
+"1625" "Fair" "Slightly overweight" 60
+"1626" "Good" "Slightly overweight" 150
+"1627" "Very Good" "About the right weight" 180
+"1628" "Good" "About the right weight" 30
+"1629" "Excellent" "About the right weight" 90
+"1630" "Good" "About the right weight" 60
+"1631" "Fair" "Slightly overweight" 60
+"1632" "Good" "About the right weight" 360
+"1633" "Good" "Slightly overweight" 240
+"1634" "Fair" "About the right weight" 210
+"1635" "Fair" "Slightly overweight" 60
+"1636" "Excellent" "About the right weight" 300
+"1637" "Very Good" "Slightly overweight" 45
+"1638" "Excellent" "About the right weight" 100
+"1639" "Very Good" "Slightly underweight" 30
+"1640" "Good" "About the right weight" 180
+"1641" "Very Good" "Slightly overweight" 320
+"1642" "Good" "About the right weight" 120
+"1643" "Good" "About the right weight" 360
+"1644" "Very Good" "Very overweight" 60
+"1645" "Good" "About the right weight" 120
+"1646" NA "About the right weight" 120
+"1647" "Good" "Very overweight" 90
+"1648" "Good" "Slightly underweight" 60
+"1649" "Excellent" "Slightly overweight" 120
+"1650" "Good" "About the right weight" 60
+"1651" "Good" "Slightly overweight" 360
+"1652" "Good" "About the right weight" 600
+"1653" "Fair" "Slightly underweight" 90
+"1654" "Good" "About the right weight" 160
+"1655" "Fair" "Very overweight" 120
+"1656" "Good" "About the right weight" 280
+"1657" NA "About the right weight" 128
+"1658" "Very Good" "About the right weight" 140
+"1659" "Very Good" "Slightly underweight" 60
+"1660" "Very Good" "About the right weight" 30
+"1661" "Very Good" "About the right weight" 60
+"1662" "Fair" "Slightly underweight" 155
+"1663" "Very Good" "Slightly overweight" 90
+"1664" "Excellent" "About the right weight" 300
+"1665" "Fair" "Very overweight" 240
+"1666" "Excellent" "Slightly overweight" 170
+"1667" "Very Good" "About the right weight" 180
+"1668" "Excellent" "About the right weight" 600
+"1669" "Very Good" "About the right weight" 230
+"1670" "Very Good" "Slightly overweight" 95
+"1671" "Very Good" "Slightly underweight" 30
+"1672" "Good" "Very overweight" 0
+"1673" "Good" "About the right weight" 100
+"1674" "Good" "Slightly underweight" 60
+"1675" "Very Good" "Very underweight" 150
+"1676" "Excellent" "About the right weight" 400
+"1677" "Very Good" "Slightly underweight" 60
+"1678" "Good" "Slightly overweight" 30
+"1679" "Excellent" "About the right weight" 300
+"1680" "Very Good" "Slightly overweight" 60
+"1681" "Fair" "About the right weight" 180
+"1682" "Good" "About the right weight" 60
+"1683" "Very Good" "Slightly overweight" 240
+"1684" "Very Good" "About the right weight" 180
+"1685" "Good" "Slightly underweight" 180
+"1686" "Good" "About the right weight" 480
+"1687" "Very Good" "Slightly underweight" 240
+"1688" "Good" "Slightly underweight" 60
+"1689" "Good" "Slightly overweight" 90
+"1690" "Good" "Slightly overweight" 360
+"1691" "Very Good" "About the right weight" 360
+"1692" "Very Good" "About the right weight" 120
+"1693" "Very Good" "Slightly overweight" 90
+"1694" "Fair" "Slightly overweight" 900
+"1695" "Good" "Very overweight" 300
+"1696" "Good" "Slightly overweight" 270
+"1697" "Excellent" "About the right weight" 240
+"1698" "Very Good" "Very overweight" 3000
+"1699" "Very Good" "Slightly underweight" 60
+"1700" "Excellent" "About the right weight" 120
+"1701" "Excellent" "About the right weight" 120
+"1702" "Very Good" "Slightly overweight" 50
+"1703" "Excellent" "About the right weight" 60
+"1704" "Poor" "Very overweight" 0
+"1705" "Very Good" "About the right weight" 300
+"1706" "Very Good" "Slightly overweight" 2000
+"1707" "Very Good" "Very overweight" 180
+"1708" "Excellent" "About the right weight" 60
+"1709" "Good" "Slightly overweight" 600
+"1710" "Excellent" "About the right weight" 120
+"1711" "Very Good" "About the right weight" 60
+"1712" "Very Good" "Slightly overweight" 0
+"1713" "Good" "Slightly overweight" 280
+"1714" "Excellent" "About the right weight" 630
+"1715" "Good" "About the right weight" 350
+"1716" "Very Good" "Slightly overweight" 40
+"1717" "Good" "Slightly overweight" 0
+"1718" "Very Good" "Very overweight" 100
+"1719" "Fair" "Very overweight" 60
+"1720" "Very Good" "Slightly overweight" 45
+"1721" "Very Good" "About the right weight" 120
+"1722" "Good" "About the right weight" 120
+"1723" "Good" "Slightly underweight" 60
+"1724" "Good" "Slightly underweight" 500
+"1725" "Excellent" "About the right weight" 60
+"1726" "Excellent" "About the right weight" 30
+"1727" "Good" "About the right weight" 360
+"1728" "Good" "Very overweight" 300
+"1729" NA "Very overweight" 1000
+"1730" "Good" "Very overweight" 300
+"1731" "Good" "About the right weight" 60
+"1732" "Very Good" "About the right weight" 150
+"1733" "Good" "About the right weight" 210
+"1734" "Good" "Slightly overweight" 60
+"1735" "Very Good" "Very overweight" 10
+"1736" "Very Good" "Very overweight" 49
+"1737" "Very Good" "Slightly overweight" 120
+"1738" "Fair" "Slightly underweight" 90
+"1739" "Fair" "About the right weight" 500
+"1740" "Very Good" "About the right weight" 180
+"1741" "Very Good" "Slightly underweight" 120
+"1742" "Fair" "Very overweight" 500
+"1743" "Very Good" "About the right weight" 600
+"1744" "Excellent" "Very overweight" 120
+"1745" "Good" "Slightly overweight" 150
+"1746" "Fair" "About the right weight" 180
+"1747" "Very Good" "About the right weight" 290
+"1748" "Fair" "About the right weight" 500
+"1749" "Fair" "Very overweight" 60
+"1750" "Very Good" "Slightly overweight" 80
+"1751" "Very Good" "About the right weight" 90
+"1752" "Excellent" "Slightly overweight" 840
+"1753" "Good" "Very overweight" 30
+"1754" "Very Good" "About the right weight" 75
+"1755" "Excellent" "About the right weight" 240
+"1756" "Fair" "About the right weight" 200
+"1757" "Very Good" "About the right weight" 300
+"1758" "Excellent" "About the right weight" 30
+"1759" "Excellent" "About the right weight" 150
+"1760" "Very Good" "About the right weight" 30
+"1761" "Very Good" "About the right weight" 20
+"1762" "Very Good" "Slightly overweight" 720
+"1763" "Very Good" "About the right weight" 90
+"1764" "Very Good" "Slightly overweight" 100
+"1765" "Poor" "Slightly underweight" 300
+"1766" NA "About the right weight" 500
+"1767" "Very Good" "About the right weight" 180
+"1768" "Very Good" "Very overweight" 200
+"1769" "Excellent" "Very underweight" 75
+"1770" "Good" "Slightly overweight" 60
+"1771" "Very Good" "About the right weight" 240
+"1772" "Good" "Slightly underweight" 60
+"1773" "Poor" "Very overweight" 0
+"1774" "Fair" "Slightly overweight" 0
+"1775" "Very Good" "About the right weight" 180
+"1776" "Good" "About the right weight" 180
+"1777" "Very Good" "About the right weight" 120
+"1778" "Very Good" "Slightly overweight" 120
+"1779" "Excellent" "About the right weight" 30
+"1780" "Very Good" "Slightly underweight" 200
+"1781" "Very Good" "About the right weight" 250
+"1782" "Good" "About the right weight" 480
+"1783" "Good" "Slightly overweight" 60
+"1784" "Very Good" "About the right weight" 2400
+"1785" "Very Good" "About the right weight" 45
+"1786" "Good" "About the right weight" 90
+"1787" "Good" "About the right weight" 45
+"1788" "Fair" "Slightly overweight" 10
+"1789" "Very Good" "About the right weight" 180
+"1790" "Good" "About the right weight" 80
+"1791" "Fair" "Very underweight" 120
+"1792" "Good" "Slightly underweight" 240
+"1793" "Very Good" "About the right weight" 30
+"1794" "Excellent" "About the right weight" 400
+"1795" "Very Good" "Very overweight" 300
+"1796" "Very Good" "About the right weight" 720
+"1797" "Good" "About the right weight" 300
+"1798" "Good" "Slightly underweight" 45
+"1799" "Fair" "Slightly overweight" 180
+"1800" "Very Good" "Slightly overweight" 420
+"1801" "Good" "Slightly overweight" 30
+"1802" "Excellent" "About the right weight" 120
+"1803" "Good" "Slightly overweight" 160
+"1804" "Fair" "Very underweight" 300
+"1805" "Very Good" "Slightly overweight" 360
+"1806" "Very Good" "About the right weight" 60
+"1807" "Very Good" "Slightly underweight" 180
+"1808" "Excellent" "Slightly overweight" NA
+"1809" "Fair" "Very overweight" 210
+"1810" "Good" "About the right weight" 200
+"1811" "Very Good" "Very overweight" NA
+"1812" "Very Good" "Slightly underweight" 180
+"1813" "Excellent" "Slightly overweight" 200
+"1814" "Very Good" "About the right weight" 60
+"1815" NA "About the right weight" 10
+"1816" "Very Good" "About the right weight" 210
+"1817" "Very Good" "About the right weight" 60
+"1818" "Very Good" "Slightly overweight" 260
+"1819" "Excellent" "About the right weight" 600
+"1820" "Very Good" "About the right weight" 100
+"1821" "Good" "Slightly overweight" 180
+"1822" "Excellent" "About the right weight" 480
+"1823" "Excellent" "Very overweight" 60
+"1824" "Very Good" "About the right weight" 1000
+"1825" "Fair" "Very overweight" 240
+"1826" "Good" "About the right weight" 180
+"1827" "Very Good" "About the right weight" 60
+"1828" "Good" "About the right weight" 180
+"1829" "Good" "Slightly underweight" 0
+"1830" "Very Good" "About the right weight" 120
+"1831" "Good" "Slightly underweight" 180
+"1832" "Very Good" "About the right weight" 90
+"1833" "Very Good" "About the right weight" 300
+"1834" "Very Good" "Very overweight" 30
+"1835" "Fair" "Slightly overweight" 50
+"1836" "Good" "Slightly overweight" 120
+"1837" "Very Good" "Slightly overweight" 14
+"1838" "Good" "About the right weight" 240
+"1839" "Very Good" "About the right weight" 120
+"1840" "Very Good" "Very overweight" 210
+"1841" "Excellent" "Slightly overweight" 300
+"1842" "Very Good" "About the right weight" 30
+"1843" "Excellent" "Slightly overweight" 30
+"1844" "Good" "About the right weight" 45
+"1845" "Good" "Slightly overweight" 5
+"1846" "Good" "Very underweight" 45
+"1847" "Fair" "Very overweight" 240
+"1848" "Fair" "Slightly overweight" 60
+"1849" "Fair" "About the right weight" 100
+"1850" "Fair" "Slightly overweight" 60
+"1851" "Very Good" "Very overweight" 120
+"1852" "Very Good" "About the right weight" 240
+"1853" "Good" "About the right weight" 180
+"1854" "Good" "Slightly overweight" 180
+"1855" "Excellent" "About the right weight" 60
+"1856" "Very Good" "About the right weight" 200
+"1857" "Very Good" "Slightly overweight" 200
+"1858" "Good" "Slightly overweight" 90
+"1859" "Very Good" "Slightly overweight" 95
+"1860" "Fair" "Slightly overweight" 120
+"1861" "Good" "About the right weight" 60
+"1862" "Good" "Very overweight" 30
+"1863" "Very Good" "About the right weight" 180
+"1864" "Fair" "Slightly overweight" 200
+"1865" "Excellent" "Slightly overweight" 240
+"1866" "Good" "Slightly underweight" 200
+"1867" "Very Good" "About the right weight" 75
+"1868" NA "About the right weight" 60
+"1869" "Fair" "Very overweight" 180
+"1870" "Good" "About the right weight" 120
+"1871" "Excellent" "Slightly underweight" 120
+"1872" "Excellent" "Slightly underweight" 0
+"1873" "Poor" "About the right weight" 740
+"1874" "Excellent" "About the right weight" 500
+"1875" "Excellent" "About the right weight" 20
+"1876" "Good" "About the right weight" 150
+"1877" "Excellent" "Slightly overweight" 180
+"1878" "Very Good" "About the right weight" 360
+"1879" "Good" "About the right weight" 30
+"1880" "Very Good" "Slightly underweight" 60
+"1881" "Very Good" "About the right weight" 180
+"1882" "Very Good" "Slightly overweight" 60
+"1883" "Very Good" "About the right weight" 120
+"1884" "Very Good" "Very overweight" 240
+"1885" "Good" "About the right weight" 0
+"1886" "Very Good" "Slightly overweight" 180
+"1887" "Good" "Slightly underweight" 360
+"1888" "Good" "Slightly underweight" 210
+"1889" "Very Good" "About the right weight" 1800
+"1890" "Very Good" "Slightly underweight" 15
+"1891" "Fair" "Slightly overweight" 1260
+"1892" "Good" "About the right weight" 30
+"1893" "Good" "Slightly overweight" 60
+"1894" "Very Good" "About the right weight" 1500
+"1895" "Poor" "Slightly underweight" 30
+"1896" "Very Good" "About the right weight" 120
+"1897" NA "About the right weight" 10
+"1898" "Good" "Slightly underweight" 180
+"1899" "Good" "Slightly overweight" 180
+"1900" "Very Good" "About the right weight" 120
+"1901" "Very Good" "About the right weight" 430
+"1902" "Good" NA NA
+"1903" "Fair" "Slightly underweight" 40
+"1904" "Excellent" "About the right weight" 60
+"1905" "Fair" "About the right weight" 20
+"1906" "Good" "Slightly underweight" 200
+"1907" "Good" "About the right weight" 10
+"1908" "Fair" "Slightly underweight" 200
+"1909" "Very Good" "About the right weight" 600
+"1910" "Very Good" "Slightly overweight" 60
+"1911" "Very Good" "About the right weight" 40
+"1912" "Good" "About the right weight" 600
+"1913" "Very Good" "About the right weight" 900
+"1914" "Good" "Slightly overweight" 120
+"1915" "Excellent" "About the right weight" 200
+"1916" "Excellent" "About the right weight" 300
+"1917" "Very Good" "Slightly overweight" 30
+"1918" "Good" "Slightly overweight" 60
+"1919" "Excellent" "About the right weight" 300
+"1920" "Very Good" "About the right weight" 240
+"1921" "Good" "Very underweight" 30
+"1922" "Good" "Slightly underweight" 20
+"1923" "Excellent" "About the right weight" 420
+"1924" "Very Good" "About the right weight" 90
+"1925" "Fair" "Slightly overweight" 120
+"1926" "Good" "Slightly overweight" 60
+"1927" "Very Good" "Slightly overweight" 840
+"1928" "Good" "Slightly overweight" 390
+"1929" "Excellent" "Slightly overweight" 400
+"1930" "Good" "Slightly underweight" 15
+"1931" "Very Good" "About the right weight" 65
+"1932" "Good" "Slightly overweight" 240
+"1933" "Very Good" "Slightly underweight" 1300
+"1934" "Very Good" "About the right weight" 7
+"1935" "Very Good" "About the right weight" 400
+"1936" "Good" "About the right weight" 300
+"1937" "Very Good" "Slightly overweight" 300
+"1938" "Very Good" "Slightly overweight" 500
+"1939" "Excellent" "About the right weight" 150
+"1940" "Fair" "Very overweight" 240
+"1941" "Fair" "Slightly overweight" 600
+"1942" "Good" "Slightly overweight" 60
+"1943" "Very Good" "About the right weight" 280
+"1944" "Good" "About the right weight" 60
+"1945" "Very Good" "About the right weight" 150
+"1946" "Excellent" "Slightly underweight" 30
+"1947" "Fair" "About the right weight" 100
+"1948" "Good" "Slightly overweight" 30
+"1949" "Very Good" NA NA
+"1950" "Good" "Very overweight" 40
+"1951" "Excellent" "Slightly underweight" 1000
+"1952" "Very Good" "About the right weight" 280
+"1953" "Excellent" "Slightly underweight" 360
+"1954" "Very Good" "About the right weight" 180
+"1955" "Excellent" "Slightly overweight" 80
+"1956" "Good" "Very overweight" 420
+"1957" "Excellent" "About the right weight" 200
+"1958" "Very Good" "About the right weight" 180
+"1959" "Very Good" "Slightly overweight" 30
+"1960" "Very Good" "About the right weight" 140
+"1961" "Very Good" "About the right weight" 40
+"1962" "Very Good" "About the right weight" 120
+"1963" "Good" "Slightly overweight" 120
+"1964" "Good" "About the right weight" 90
+"1965" "Fair" "About the right weight" 120
+"1966" "Very Good" "About the right weight" 31
+"1967" "Fair" "Slightly overweight" 200
+"1968" "Good" "About the right weight" 120
+"1969" "Fair" "Slightly underweight" 60
+"1970" "Excellent" "About the right weight" 320
+"1971" "Good" "Slightly overweight" 60
+"1972" "Very Good" "About the right weight" 60
+"1973" "Good" "Slightly overweight" 0
+"1974" "Fair" "Slightly overweight" 25
+"1975" "Very Good" "About the right weight" 305
+"1976" NA "Slightly overweight" 30
+"1977" "Good" "Slightly overweight" 20
+"1978" "Good" "About the right weight" 150
+"1979" "Very Good" "About the right weight" 100
+"1980" "Good" "Slightly overweight" 60
+"1981" "Very Good" "About the right weight" 20
+"1982" "Very Good" "About the right weight" 90
+"1983" "Very Good" "About the right weight" 140
+"1984" "Very Good" "Slightly overweight" 240
+"1985" "Good" "Slightly underweight" 180
+"1986" "Good" "About the right weight" 210
+"1987" "Excellent" "About the right weight" 60
+"1988" "Very Good" "About the right weight" 60
+"1989" "Very Good" "About the right weight" 840
+"1990" "Very Good" "About the right weight" 80
+"1991" "Very Good" "Very underweight" 50
+"1992" "Good" "Slightly overweight" 30
+"1993" "Fair" "Slightly overweight" 0
+"1994" "Excellent" "Slightly underweight" 400
+"1995" "Good" "About the right weight" 120
+"1996" "Good" "About the right weight" NA
+"1997" "Very Good" "Slightly underweight" 360
+"1998" "Excellent" "About the right weight" 200
+"1999" "Good" "About the right weight" 150
+"2000" "Fair" "Slightly overweight" 280
+"2001" "Good" "Slightly overweight" 240
+"2002" "Good" "Slightly overweight" 180
+"2003" "Excellent" "Slightly underweight" 45
+"2004" "Very Good" "About the right weight" 450
+"2005" "Very Good" "About the right weight" 420
+"2006" "Very Good" "About the right weight" 120
+"2007" "Very Good" "Very underweight" 16
+"2008" "Good" "Very overweight" 90
+"2009" "Good" "Very overweight" 120
+"2010" "Very Good" "About the right weight" 60
+"2011" "Very Good" "Slightly overweight" 150
+"2012" "Good" "About the right weight" 180
+"2013" "Excellent" "Slightly underweight" 60
+"2014" "Very Good" "About the right weight" 30
+"2015" "Good" "About the right weight" 70
+"2016" "Good" "About the right weight" 60
+"2017" "Fair" "About the right weight" 1800
+"2018" "Excellent" "About the right weight" 60
+"2019" NA "About the right weight" 400
+"2020" "Good" "Slightly underweight" 150
+"2021" "Good" "About the right weight" 4600
+"2022" "Fair" "Slightly overweight" 120
+"2023" "Good" "Slightly overweight" 5
+"2024" "Fair" "Slightly overweight" 90
+"2025" "Very Good" "Slightly underweight" 120
+"2026" "Good" "About the right weight" 560
+"2027" "Excellent" "About the right weight" 320
+"2028" "Very Good" "About the right weight" 180
+"2029" "Good" "Very overweight" 60
+"2030" "Good" "About the right weight" 200
+"2031" "Good" "About the right weight" 600
+"2032" NA "Slightly overweight" 120
+"2033" "Excellent" "About the right weight" 60
+"2034" "Very Good" "About the right weight" 0
+"2035" "Very Good" "Slightly overweight" 1260
+"2036" "Fair" "Slightly underweight" 85
+"2037" "Very Good" "Slightly overweight" 210
+"2038" "Very Good" "About the right weight" 1500
+"2039" "Good" "Slightly overweight" 60
+"2040" "Fair" "Very overweight" 840
+"2041" "Very Good" "Slightly underweight" 360
+"2042" "Good" "About the right weight" 150
+"2043" "Excellent" "About the right weight" 200
+"2044" NA "About the right weight" 70
+"2045" "Very Good" "About the right weight" 90
+"2046" "Good" "About the right weight" 420
+"2047" "Very Good" "About the right weight" 420
+"2048" "Excellent" "About the right weight" 240
+"2049" "Fair" "About the right weight" 80
+"2050" "Good" "Slightly overweight" 120
+"2051" "Good" "Slightly overweight" 20
+"2052" "Very Good" "Very overweight" 360
+"2053" "Very Good" "About the right weight" 30
+"2054" "Excellent" "About the right weight" 400
+"2055" "Very Good" "Very underweight" 200
+"2056" "Very Good" "About the right weight" 10
+"2057" "Very Good" "Slightly underweight" 20
+"2058" "Very Good" "Slightly underweight" 550
+"2059" "Fair" "Slightly overweight" 180
+"2060" "Very Good" "Slightly overweight" 60
+"2061" "Poor" "About the right weight" 240
+"2062" "Fair" "Very overweight" 0
+"2063" "Fair" "Very overweight" 30
+"2064" "Fair" "Slightly overweight" 380
+"2065" "Good" "Slightly underweight" 420
+"2066" "Excellent" "About the right weight" 120
+"2067" "Excellent" "Slightly overweight" 60
+"2068" "Very Good" "Very overweight" 10
+"2069" "Fair" "Slightly overweight" 120
+"2070" "Very Good" "About the right weight" 45
+"2071" "Good" "Slightly underweight" 100
+"2072" "Very Good" "About the right weight" 60
+"2073" "Good" "About the right weight" 300
+"2074" "Good" "Slightly overweight" 45
+"2075" "Very Good" "About the right weight" 45
+"2076" "Poor" "About the right weight" 300
+"2077" "Very Good" "Slightly overweight" 1260
+"2078" "Very Good" "Very overweight" 2400
+"2079" "Good" "About the right weight" 14
+"2080" "Excellent" "About the right weight" 0
+"2081" "Good" "About the right weight" 120
+"2082" "Fair" "Slightly underweight" 240
+"2083" "Very Good" "Slightly overweight" 1500
+"2084" "Good" "About the right weight" 23
+"2085" "Very Good" "About the right weight" 1260
+"2086" "Very Good" "About the right weight" 210
+"2087" "Excellent" "About the right weight" 720
+"2088" "Fair" "Slightly overweight" 0
+"2089" NA "About the right weight" 240
+"2090" "Very Good" "Slightly overweight" 30
+"2091" NA "Very overweight" 60
+"2092" "Excellent" "Slightly overweight" 420
+"2093" "Good" "About the right weight" 600
+"2094" "Very Good" "Slightly overweight" 320
+"2095" NA "Slightly overweight" 60
+"2096" "Good" "Slightly overweight" 560
+"2097" "Good" "About the right weight" 40
+"2098" "Good" "About the right weight" 420
+"2099" "Very Good" "About the right weight" 300
+"2100" "Very Good" "About the right weight" 200
+"2101" "Very Good" "Slightly overweight" 60
+"2102" "Good" "Slightly overweight" 0
+"2103" "Excellent" "Slightly overweight" 60
+"2104" "Very Good" "About the right weight" 180
+"2105" "Good" "About the right weight" 120
+"2106" "Poor" "Slightly overweight" 0
+"2107" "Fair" "Slightly overweight" 240
+"2108" "Excellent" "About the right weight" 240
+"2109" "Excellent" "Slightly overweight" 60
+"2110" "Good" "Slightly underweight" 50
+"2111" "Very Good" "Slightly overweight" 260
+"2112" "Good" "Slightly overweight" 500
+"2113" "Fair" "Very overweight" 1000
+"2114" "Very Good" "About the right weight" 200
+"2115" "Very Good" "Slightly overweight" 480
+"2116" "Very Good" "About the right weight" 120
+"2117" "Good" "Slightly overweight" 30
+"2118" "Good" "Very overweight" 60
+"2119" "Excellent" "About the right weight" 210
+"2120" "Very Good" "About the right weight" 80
+"2121" "Fair" "Very overweight" 60
+"2122" "Very Good" "Slightly underweight" 360
+"2123" "Very Good" "About the right weight" 60
+"2124" "Very Good" "Slightly overweight" 5
+"2125" "Very Good" "About the right weight" 200
+"2126" "Fair" "Slightly underweight" 1920
+"2127" "Good" "Slightly overweight" 110
+"2128" "Good" "About the right weight" 120
+"2129" "Excellent" "Slightly overweight" 315
+"2130" "Very Good" "About the right weight" 540
+"2131" "Excellent" "Slightly overweight" 60
+"2132" "Good" "Slightly overweight" 60
+"2133" "Good" "About the right weight" 300
+"2134" "Fair" "Slightly overweight" 180
+"2135" "Excellent" "About the right weight" 1200
+"2136" "Excellent" "About the right weight" 100
+"2137" "Very Good" "Slightly overweight" 100
+"2138" "Good" "Slightly overweight" 280
+"2139" "Good" "About the right weight" 15
+"2140" "Excellent" "About the right weight" 150
+"2141" "Very Good" "Slightly overweight" 90
+"2142" "Excellent" "About the right weight" 250
+"2143" "Very Good" "About the right weight" 400
+"2144" "Fair" "Slightly overweight" 180
+"2145" "Very Good" "About the right weight" 30
+"2146" "Good" "About the right weight" 600
+"2147" "Fair" "About the right weight" 60
+"2148" "Very Good" "Slightly overweight" 150
+"2149" "Very Good" "Slightly overweight" 75
+"2150" "Fair" "Slightly overweight" 20
+"2151" "Very Good" "About the right weight" 700
+"2152" "Good" "About the right weight" 120
+"2153" "Very Good" "Slightly underweight" 60
+"2154" "Fair" "About the right weight" 60
+"2155" "Very Good" "About the right weight" 300
+"2156" "Very Good" NA NA
+"2157" "Good" "Slightly overweight" 45
+"2158" "Good" "Slightly underweight" 60
+"2159" "Very Good" "About the right weight" 120
+"2160" "Good" "Slightly overweight" 45
+"2161" "Excellent" "About the right weight" 50
+"2162" "Excellent" "Slightly underweight" 90
+"2163" "Good" "Slightly overweight" 60
+"2164" "Good" "About the right weight" 60
+"2165" "Very Good" "About the right weight" 45
+"2166" "Very Good" "About the right weight" 150
+"2167" "Good" "Slightly underweight" 240
+"2168" "Very Good" "About the right weight" 120
+"2169" "Very Good" "Slightly underweight" 100
+"2170" "Excellent" "About the right weight" 360
+"2171" "Very Good" "Slightly underweight" 420
+"2172" "Very Good" "Slightly overweight" 7
+"2173" "Very Good" "About the right weight" 480
+"2174" "Good" "About the right weight" 30
+"2175" "Very Good" "About the right weight" 30
+"2176" "Excellent" "About the right weight" 50
+"2177" "Good" "Slightly underweight" 60
+"2178" "Fair" "About the right weight" 300
+"2179" "Poor" "Very overweight" 720
+"2180" "Fair" "Slightly overweight" 240
+"2181" "Very Good" "Slightly overweight" 300
+"2182" "Good" "About the right weight" 120
+"2183" "Very Good" "About the right weight" 315
+"2184" "Very Good" "About the right weight" 240
+"2185" "Very Good" "Very overweight" 120
+"2186" "Very Good" "About the right weight" 600
+"2187" "Very Good" "About the right weight" 240
+"2188" "Very Good" "About the right weight" 60
+"2189" "Good" "About the right weight" 40
+"2190" "Very Good" "About the right weight" 240
+"2191" "Good" "Slightly underweight" 120
+"2192" "Good" "Slightly overweight" 600
+"2193" "Good" "Very overweight" 120
+"2194" "Very Good" "About the right weight" 100
+"2195" "Very Good" "Slightly overweight" 60
+"2196" "Very Good" "Slightly underweight" 360
+"2197" "Very Good" "Slightly underweight" 180
+"2198" "Good" "About the right weight" 210
+"2199" "Fair" "About the right weight" 60
+"2200" "Excellent" "Slightly overweight" 60
+"2201" "Very Good" "Very overweight" 840
+"2202" "Good" "Slightly overweight" 20
+"2203" "Very Good" "About the right weight" 30
+"2204" "Very Good" "Slightly overweight" 20
+"2205" "Very Good" "Very overweight" 50
+"2206" "Good" "Slightly overweight" 0
+"2207" "Very Good" "Slightly overweight" 240
+"2208" "Very Good" "Slightly overweight" 180
+"2209" "Good" "About the right weight" 180
+"2210" "Good" "Slightly underweight" 180
+"2211" "Fair" "Slightly overweight" 840
+"2212" "Fair" "Slightly overweight" 60
+"2213" "Excellent" "About the right weight" 500
+"2214" "Good" "Slightly underweight" 120
+"2215" "Very Good" "About the right weight" 60
+"2216" "Very Good" "About the right weight" 300
+"2217" "Good" "Slightly overweight" 120
+"2218" "Good" "About the right weight" 120
+"2219" "Excellent" "Slightly overweight" 120
+"2220" "Excellent" "About the right weight" 120
+"2221" "Good" "About the right weight" 120
+"2222" "Good" "About the right weight" 11
+"2223" "Very Good" "About the right weight" 120
+"2224" "Good" "Slightly overweight" 150
+"2225" "Very Good" "About the right weight" 240
+"2226" "Fair" "Very overweight" 105
+"2227" "Excellent" "Slightly overweight" 1200
+"2228" "Very Good" "Slightly overweight" 30
+"2229" "Good" "Slightly overweight" 60
+"2230" "Fair" "Slightly underweight" 60
+"2231" "Good" "About the right weight" 90
+"2232" "Good" "About the right weight" 720
+"2233" "Very Good" "Slightly overweight" 60
+"2234" "Very Good" "About the right weight" 30
+"2235" "Good" "Slightly overweight" 120
+"2236" "Very Good" "About the right weight" 450
+"2237" "Very Good" "About the right weight" 100
+"2238" "Good" "Slightly underweight" 240
+"2239" "Very Good" "About the right weight" 45
+"2240" "Excellent" "About the right weight" 420
+"2241" "Poor" "Very underweight" 60
+"2242" "Excellent" "Slightly overweight" 120
+"2243" "Very Good" "About the right weight" 150
+"2244" "Fair" "Slightly overweight" 60
+"2245" "Fair" "Slightly underweight" 800
+"2246" "Fair" "Slightly overweight" 20
+"2247" "Good" "Slightly overweight" 120
+"2248" "Good" "About the right weight" 120
+"2249" "Good" "About the right weight" 240
+"2250" "Very Good" "Slightly underweight" 420
+"2251" "Very Good" "About the right weight" 120
+"2252" "Very Good" "Slightly overweight" 120
+"2253" "Fair" "Slightly overweight" 220
+"2254" "Very Good" "About the right weight" 60
+"2255" "Good" "About the right weight" 0
+"2256" "Fair" "Slightly overweight" 120
+"2257" "Excellent" "Slightly overweight" 240
+"2258" "Very Good" "Slightly underweight" 60
+"2259" "Very Good" "Slightly overweight" 120
+"2260" "Excellent" "Slightly underweight" 120
+"2261" "Good" "Slightly overweight" 520
+"2262" "Good" "About the right weight" 150
+"2263" "Excellent" "Slightly overweight" 300
+"2264" "Good" "About the right weight" 240
+"2265" "Very Good" "Slightly overweight" 600
+"2266" "Excellent" "About the right weight" 200
+"2267" "Very Good" "Slightly overweight" 100
+"2268" "Very Good" "Slightly overweight" 450
+"2269" "Very Good" "About the right weight" 100
+"2270" "Excellent" "About the right weight" 60
+"2271" "Excellent" "About the right weight" 400
+"2272" "Good" "Very underweight" 2400
+"2273" "Good" "About the right weight" 600
+"2274" "Fair" "Slightly overweight" 200
+"2275" "Good" "Slightly overweight" 70
+"2276" "Good" "Slightly overweight" 120
+"2277" "Very Good" "About the right weight" 90
+"2278" "Good" "Slightly overweight" 200
+"2279" "Excellent" "About the right weight" 90
+"2280" "Good" "Slightly overweight" 249
+"2281" "Very Good" "About the right weight" 300
+"2282" "Good" "About the right weight" 120
+"2283" "Very Good" "Slightly underweight" 180
+"2284" "Fair" "About the right weight" 75
+"2285" "Excellent" "About the right weight" 400
+"2286" "Excellent" "Slightly overweight" 120
+"2287" "Very Good" "About the right weight" 60
+"2288" "Very Good" "About the right weight" 500
+"2289" "Excellent" "About the right weight" 300
+"2290" "Very Good" "About the right weight" 120
+"2291" "Excellent" "About the right weight" 60
+"2292" "Very Good" "About the right weight" 230
+"2293" "Very Good" "Slightly overweight" 30
+"2294" "Good" "Slightly overweight" 115
+"2295" "Good" "Slightly underweight" 400
+"2296" "Very Good" "Slightly overweight" 30
+"2297" "Good" "Slightly overweight" 60
+"2298" "Very Good" "Slightly underweight" 10
+"2299" "Very Good" "Slightly overweight" 45
+"2300" "Very Good" "About the right weight" 500
+"2301" "Good" "Slightly overweight" 300
+"2302" "Fair" "Very overweight" 180
+"2303" "Very Good" "About the right weight" 90
+"2304" "Fair" "Very overweight" 120
+"2305" "Excellent" "About the right weight" 300
+"2306" NA "About the right weight" 900
+"2307" "Excellent" "Slightly underweight" 45
+"2308" NA "About the right weight" 30
+"2309" "Poor" "Very overweight" 60
+"2310" "Good" "About the right weight" NA
+"2311" "Good" "About the right weight" 70
+"2312" "Excellent" "About the right weight" 120
+"2313" NA "Slightly overweight" 60
+"2314" "Good" "Slightly underweight" 420
+"2315" "Very Good" "About the right weight" 180
+"2316" "Very Good" "About the right weight" 75
+"2317" "Excellent" "About the right weight" 180
+"2318" "Very Good" "Slightly underweight" 380
+"2319" "Excellent" "Slightly overweight" 120
+"2320" "Excellent" "About the right weight" 250
+"2321" "Excellent" "Slightly overweight" 20
+"2322" "Good" "About the right weight" 30
+"2323" "Good" "Slightly overweight" 180
+"2324" "Very Good" "Very overweight" 60
+"2325" "Good" "Slightly underweight" 120
+"2326" "Very Good" "About the right weight" 15
+"2327" "Very Good" "Slightly overweight" 180
+"2328" "Very Good" "About the right weight" 2100
+"2329" "Excellent" "About the right weight" 75
+"2330" "Good" "About the right weight" 720
+"2331" "Fair" "About the right weight" 60
+"2332" "Very Good" "About the right weight" 770
+"2333" "Excellent" "About the right weight" 2000
+"2334" "Very Good" "Slightly underweight" 240
+"2335" "Excellent" "Slightly overweight" 80
+"2336" "Very Good" "About the right weight" 120
+"2337" "Very Good" "Very overweight" 120
+"2338" "Good" "Slightly overweight" 900
+"2339" "Very Good" "Slightly underweight" 0
+"2340" "Very Good" "About the right weight" 420
+"2341" "Very Good" "About the right weight" 150
+"2342" "Fair" "Slightly overweight" 0
+"2343" "Excellent" "About the right weight" 120
+"2344" "Very Good" "About the right weight" 420
+"2345" "Very Good" "Slightly overweight" 100
+"2346" "Good" "About the right weight" 3000
+"2347" "Good" "Slightly overweight" 150
+"2348" "Very Good" "Slightly underweight" 180
+"2349" "Very Good" "Slightly overweight" 500
+"2350" "Fair" "Slightly overweight" 180
+"2351" "Very Good" "About the right weight" 150
+"2352" "Fair" "Very overweight" 60
+"2353" "Good" "Very overweight" 300
+"2354" "Good" "Slightly overweight" 120
+"2355" "Fair" "Very overweight" 1
+"2356" "Very Good" "Slightly overweight" 45
+"2357" "Good" "Slightly overweight" 60
+"2358" "Very Good" "Slightly underweight" 20

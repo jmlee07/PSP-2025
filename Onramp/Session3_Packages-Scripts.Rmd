@@ -189,7 +189,7 @@ library(readxl)
 2.  Now, we can import in the Excel file with our data!
 
 ```{r}
-ncha_demo <- read_xlsx("NCHA2021_RWS_Subset.xlsx", col_names = TRUE)
+ncha_demo <- read_xlsx("C:/Users/johnm/OneDrive/Desktop/PINC 2025/PSP 2025/Onramp/Data/NCHA2021_RWS_Subset.xlsx", col_names = TRUE)
 ```
 
 3.  Time to check if the data loaded in correctly.
@@ -207,21 +207,29 @@ str(ncha_demo)
 5.  Great! Now, let's find out the number of different values of a variable.
 
 ```{r}
-table()
+table(ncha_demo)
 ```
 
 6.  What values are we interested in? Pick 3!
 
+```{r}
+
+OverallHealth <- ncha_demo$'Overall Health'
+
+Weight <- ncha_demo$'Self described weight'
+
+ModExercise <- ncha_demo$'Minutes Moderate PA - minutes'
+```
 7.  Alright, now let's create a NEW data frame with the data from just those 3 variables.
 
 ```{r}
-ncha_new <- data.frame()
+ncha_new <- data.frame(OverallHealth, Weight, ModExercise)
 ```
 
 8.  Lastly, let's export that new data frame into a CSV file!
 
 ```{r}
-write.csv()
+write.csv(ncha_new, "C:/Users/johnm/OneDrive/Desktop/PINC 2025/PSP 2025/Onramp/Data/ncha_new.csv")
 ```
 
 ### F. *Activity 2:* Importing, Viewing, and Exporting
@@ -233,7 +241,7 @@ Now it's your turn to import and export data, with a little bit of functions we 
 First, let's import the data set. *The dataset is downloadable from Module 3's Workshop Materials on Canvas. Hint: the dataset is in a CSV file form and we need to **read** it into the Session environment.*
 
 ```{r}
-#insert the code here
+ncha_activity <- read_csv("C:/Users/johnm/OneDrive/Desktop/PINC 2025/PSP 2025/Onramp/Data/NCHA2021_Session3_5_Subset.csv", col_names = TRUE)
 
 ```
 
@@ -242,7 +250,7 @@ First, let's import the data set. *The dataset is downloadable from Module 3's W
 Great! Now you have the data in your environment! The next step of this activity is to view the data set.
 
 ```{r}
-# view the data set
+view(ncha_activity)
 
 ```
 
@@ -250,22 +258,23 @@ Questions:
 
 ```{r}
 # you can use this space to answer the questions below
+str(ncha_activity)
 ```
 
-1.  How many variables are in the data set? *Hint: you can use either View() or str() to answer this question!*
+1.  How many variables are in the data set? *Hint: you can use either View() or str() to answer this question!* 13 variables
 
-2.  What two types/classes of data are present in the data set? *Hint: use the function str() to answer the questions.*
+2.  What two types/classes of data are present in the data set? *Hint: use the function str() to answer the questions.* chr and num
 
 Next, we are going to look at the values in the variable OVRL_HEALTH. How do we view the number of different values in a variable?
 
 ```{r}
 # Input code here
-
+table(ncha_activity$OVRL_HEALTH)
 ```
 
 Questions:
 
-1.  How many different values does the variable OVRL_HEALTH have?
+1.  How many different values does the variable OVRL_HEALTH have? 5 different values
 
 #### Creating a data frame with the current data set
 
@@ -273,7 +282,7 @@ We can create a data frame with data from the current data set by using the func
 
 ```{r}
 # Insert code below
-
+ncha_new_activity_ <- data.frame(OVRL_HEALTH, SELFDESC_WEIGHT, )
 ```
 
 #### Exporting the Data
