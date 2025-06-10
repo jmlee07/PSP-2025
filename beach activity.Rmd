@@ -1,0 +1,47 @@
+---
+title: "Beach Activity SCIP"
+output:
+  html_document:
+    df_print: paged
+date: "2025-06-10"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r BEACH DATA}
+summary(cars)
+```
+
+``` {r not cars but beach data}
+beach <- read.csv("C:/Users/johnm/OneDrive/Desktop/PINC 2025/PSP 2025/SCIP Materials/beach_data.csv", stringsAsFactors = FALSE)
+summary(beach)
+```
+
+``` {r}
+```
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo= TRUE}
+barplot(beach$Weight,
+        main = "Animal Weights",
+        ylab = "Weiht (g)",
+        names.arg = beach$Sample,
+        las = 2,            #makes labels vertical for readability
+        col = "red")
+
+```
+## weight standard deviation
+``` {r}
+sd(beach$Weight)
+```
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
