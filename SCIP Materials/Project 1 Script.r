@@ -8,7 +8,7 @@ getwd()
 
 #Then, set your working directory to the directory that contains beach data
 #Hint: after typing "", trying using tab to navigate directories
-setwd("/Users/username/path/to/file")
+setwd("C:/Users/johnm/OneDrive/Desktop/PINC 2025/PSP 2025/SCIP Materials/beach_data.csv")
 
 #Read in your data and save it as an object
 beach <- read.csv("beach_data.csv") #check environment to see if it loaded
@@ -19,10 +19,10 @@ beach <- read.csv("beach_data.csv") #check environment to see if it loaded
 #QUESTION 1: What is the standard deviation of the weight?
 ANSWER GOES HERE
 
-
+15.21705  I used sd(beach$Weight) to find the standard deviation
 #QUESTION 2: plot the weight using the barplot() function
 ANSWER GOES HERE
-
+barplot(beach$weight)
 
 #Great, you just generated your first plot! Now let's customize
 #Remember in the R Basics videos the function w/ setting format? I never covered
