@@ -449,9 +449,7 @@ ncha_df %>% mutate(exercise_vig_min = "vig_activity_hour")
 
 # make a simple plot using ggplot()
 
-ggplot(data = ncha_df_sub, aes (x = overall_health, y = mod_activity_hour, colour) ) + 
-    geom_boxplot()
-
+ggplot(ncha_df, aes(mod_activity_hour) ) + geom_histogram()
 
 ```
 
