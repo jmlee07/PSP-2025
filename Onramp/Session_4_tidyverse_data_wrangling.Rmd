@@ -175,7 +175,7 @@ NCHA2021_RWS_Subset <- read_excel("Data/NCHA2021_RWS_Subset.xlsx")
 ```{r}
 
 # OR name it a shorter name when you load it so that it is easy to use for coding!
-# ncha_subset <- read_excel("Data/NCHA2021_RWS_Subset.xlsx")
+ncha_subset <- read_excel("Data/NCHA2021_RWS_Subset.xlsx")
 
 ```
 
@@ -339,7 +339,7 @@ ggplot(data = ncha_df_sub, aes (x = overall_health, y = mod_activity_hour, colou
 
 # OR you can use pipes instead of [+] symbol 
 
-ggplot(ncha_df_sub, aes(overall_health, mod_activity_hour) ) %>% 
+ggplot( = ncha_df_sub, aes(overall_health, mod_activity_hour) ) %>% 
           geom_boxplot()
 
 
@@ -385,8 +385,8 @@ ncha_df <- data.frame(NCHA2021_RWS_Subset)
 ```{r}
 
 # Check that your data import worked as intended
-
-
+str(ncha_df)
+dim(ncha_df)
 
 ```
 
@@ -395,9 +395,9 @@ ncha_df <- data.frame(NCHA2021_RWS_Subset)
 - Rename the variables: “Overall.Health”, “Minutes.Moderate.PA..minutes”, “Minutes.Vigorous.PA..minutes”
 
 ```{r}
-
+names(ncha_df)
 # We can rename one variable at a time, OR we can also rename multiple variables at the same time
-
+ncha_df <- rename(ncha_df, "overall_health" = "Overall.Health", "exercise_mod_min" = "Minutes.Moderate.PA...minutes", "exercise_vig_min" = "Minutes.Vigorous.PA...minutes")
 
 ```
 
@@ -407,7 +407,7 @@ ncha_df <- data.frame(NCHA2021_RWS_Subset)
 ```{r}
 
 # Select the variables using pipes [ %>% ]
-
+ncha_df %>% select(overall_health, exercise_mod_min, exercise_vig_min) 
 
 
 ```
@@ -418,7 +418,7 @@ ncha_df <- data.frame(NCHA2021_RWS_Subset)
 ```{r}
 
 # View the data frame in a pop up window 
-
+view(ncha_df)
 
 ```
 
@@ -428,7 +428,7 @@ ncha_df <- data.frame(NCHA2021_RWS_Subset)
 ```{r}
 
 # Only keep observations for students who self-report "Excellent" health 
-
+ncha_df %>% filter(overall_health == "Excellent")
 
 ```
 
@@ -439,7 +439,7 @@ ncha_df <- data.frame(NCHA2021_RWS_Subset)
 ```{r}
 
 # make a new variable using mutate()
-
+ncha_df %>% mutate(exercise_vig_min = "vig_activity_hour")
 ```
 
 
@@ -449,7 +449,8 @@ ncha_df <- data.frame(NCHA2021_RWS_Subset)
 
 # make a simple plot using ggplot()
 
-
+ggplot(data = ncha_df_sub, aes (x = overall_health, y = mod_activity_hour, colour) ) + 
+    geom_boxplot()
 
 
 ```
