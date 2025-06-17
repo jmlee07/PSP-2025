@@ -1,0 +1,54 @@
+---
+title: "Salinity Data"
+output: html_document
+date: "2025-06-17"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##. Download data
+Downloaded to SCIP Folder
+
+##2. Create new RMD File
+
+
+##3. Read data into R
+```{r}
+Data <- read.csv("C:/Users/johnm/OneDrive/Desktop/PINC 2025/PSP 2025/SCIP Materials/DataSalinity_SFbar_FortPoint.csv")
+
+summary(Data)
+```
+
+
+##4. Make sure dates are recognized as dates
+
+```{r}
+#install.packages("chron")
+library(chron)
+
+#making r recognize charachters as dates
+
+Data$Date <- as.chron(Data$Date)
+
+summary(Data)
+```
+
+##5. Plot date vs salinity
+```{r}
+plot(x = Data$Date, y = Data$Salinity, col = "blue")
+```
+
+
+##6. Add line for Oct 24th 2021
+
+```{r}
+plot(x = Data$Date, y = Data$Salinity, col = "blue")
+abline(v = as.chron("10/24/2021"))
+```
+
+
+
+
+
