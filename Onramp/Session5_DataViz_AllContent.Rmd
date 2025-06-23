@@ -263,7 +263,7 @@ ncha
 Next, let's view the data. How do we view the data?
 
 ```{r}
-summary(ncha)
+View(ncha)
 ```
 
 Now, let's check the class of each variable.
@@ -289,7 +289,8 @@ ggplot(ncha) + geom_histogram(aes(x = AGE))
 Now, let's try to figure out whether there is a difference of minutes of moderate physical activity (continuous variable) among the different values of overall health (discrete variable) with a boxplot.
 
 ```{r}
-boxplot(MIN_MOD_PA ~ OVRL_HEALTH, data = ncha)
+ggplot(ncha) + 
+  geom_boxplot(aes(y = MIN_MOD_PA, x = OVRL_HEALTH))
 ```
 
 Next, let's look at the age (continuous variable) of survey respondents and their minutes of vigorous physical activity (continuous variable) with the scatterplot function.
