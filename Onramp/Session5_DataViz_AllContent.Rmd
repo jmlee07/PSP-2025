@@ -28,7 +28,7 @@ Here is the link to the R Function Dictionary, with all of the functions you wil
 Let's load in the data that we will use in this session
 
 ```{r}
-ncha <- read.csv(file = "NCHA2021_Session3_5_Subset.csv", header = TRUE, na.strings=c("","NA"))
+ncha <- read.csv(file = "C:/Users/johnm/OneDrive/Desktop/PINC 2025/PSP 2025/Onramp/Data/NCHA2021_Session3_5_Subset.csv", header = TRUE, na.strings=c("","NA"))
 ```
 
 ### A. Data Visualization (Data Viz) in R
@@ -255,19 +255,21 @@ install.packages("RColorBrewer")
 library(RColorBrewer)
 
 # load in the data
-ncha <- read.csv(file = "NCHA2021_Session3_5_Subset.csv", header = TRUE, na.strings=c("","NA"))
+ncha <- read.csv(file = "Data/NCHA2021_Session3_5_Subset.csv", header = TRUE, na.strings=c("","NA"))
+
+ncha
 ```
 
 Next, let's view the data. How do we view the data?
 
 ```{r}
-
+View(ncha)
 ```
 
 Now, let's check the class of each variable.
 
 ```{r}
-
+lapply(ncha, class)
 ```
 
 Great! Now let's start plotting.
@@ -275,19 +277,20 @@ Great! Now let's start plotting.
 Age is a continuous variable. How can we plot age to see the ages of the participants in the survey in base R?
 
 ```{r}
-
+plot(ncha$AGE)
 ```
 
 How about in ggplot?
 
 ```{r}
-
+ggplot(ncha) + geom_histogram(aes(x = AGE))
 ```
 
 Now, let's try to figure out whether there is a difference of minutes of moderate physical activity (continuous variable) among the different values of overall health (discrete variable) with a boxplot.
 
 ```{r}
-
+ggplot(ncha) + 
+  geom_boxplot(aes(y = MIN_MOD_PA, x = OVRL_HEALTH))
 ```
 
 Next, let's look at the age (continuous variable) of survey respondents and their minutes of vigorous physical activity (continuous variable) with the scatterplot function.
@@ -295,7 +298,11 @@ Next, let's look at the age (continuous variable) of survey respondents and thei
 Note: in the plot type function, include the following: position = "jitter"
 
 ```{r}
-
+ggplot(ncha, aes(x = AGE, y = MIN_VIG_PA)) +
+  geom_point(position = "jitter") +
+  xlab("Age") +
+  ylab("Minutes of Vigorous Physical Activity") +
+  ggtitle("Scatterplot of Age vs. Vigorous PA")
 ```
 
 Amazing! Okay, now let's start customizing. Select a plot that you've made, copy and paste that code into the code block below, and start customizing to your heart's desire!
@@ -313,7 +320,12 @@ Things you can do:
 Keep running the code every once in awhile to check if your code works!
 
 ```{r}
-
+library(ggplot2)
+ggplot(ncha) + geom_histogram(aes(x = AGE, fill = OVRL_HEALTH), bins = 15, col = "white") + 
+scale_x_continuous(n.breaks = 15) + scale_y_log10() +
+scale_fill_brewer(palette = "Set2") + xlab("Age") + ylab("Number of Students") +
+ggtitle("Number of Students by Age and Overall Healt") +
+theme_dark()
 ```
 
 Great job! You just learned how to plot data for visualization!!!
